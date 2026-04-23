@@ -1,0 +1,31 @@
+{
+  "id": "yom-kippur-avodah",
+  "prayerNodeId": "yom-kippur-avodah",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "אַשְׁרֵי עַיִן רָאֲתָה כָּל אֵלֶּה",
+      "וְהַכֹּהֵן הָיָה אוֹמֵר אָנָּא בְּשֵׁם",
+      "וְהֵם הָיוּ כּוֹרְעִים וּמִשְׁתַּחֲוִים וְנוֹפְלִים עַל פְּנֵיהֶם"
+    ],
+    "translit": [
+      "Ashrei ayín raatá kol ele.",
+      "Vehakohen hayá omer: Aná beShem.",
+      "Vehem hayu korim umishttachavim venoflin al penêhem."
+    ],
+    "pt": [
+      "Ditoso o olho que viu tudo isto.",
+      "E o Sumo Sacerdote dizia: Ó, pelo Nome.",
+      "E eles se curvavam, prostavam-se e caíam sobre o rosto."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Avodá — relato do serviço do Sumo Sacerdote no Templo em Yom Kipur. Texto completo a preencher."
+  }
+}

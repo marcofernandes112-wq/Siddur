@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "description": "Portuguese titles override map for PrayerNodes",
+  "titles": {
+    "upon_arising": "Ao Acordar",
+    "modeh-ani": "Modê Ani — Gratidão ao Acordar",
+    "netilat-yadayim": "Netilat Yadayim — Lavagem das Mãos",
+    "asher-yatzar": "Asher Yatzar — Bênção do Corpo",
+    "elohai-neshama": "Elohai Neshamá — A Alma Pura",
+    "weekday_shacharit": "Shacharit — Oração da Manhã",
+    "birkot-hashachar": "Birkot HaShachar — As 15 Bênçãos da Manhã",
+    "birkot-hatorah": "Birkot HaTorá — Bênçãos da Torá",
+    "pesukei-dezimra": "Pessuquei DeZimrá — Versículos de Louvor",
+    "baruch-sheamar": "Baruch Sheamar — Abertura dos Pessuquei DeZimrá",
+    "ashrei-shacharit": "Ashrei — Salmo 145",
+    "yishtabach": "Yishtabach — Conclusão dos Pessuquei DeZimrá",
+    "barchu-shacharit": "Barchu — Chamada à Oração",
+    "shema-blessings-shacharit": "Bênçãos do Shemá",
+    "shema-shacharit": "O Shemá — Declaração de Fé",
+    "amida-shacharit": "Amidá — As 18 Bênçãos",
+    "tachanun-shacharit": "Tachanun — Súplica e Arrependimento",
+    "aleinu-shacharit": "Aleinu — Conclusão da Oração",
+    "kaddish-yatom": "Kadish Yatom — Kadish do Enlutado",
+    "weekday_mincha": "Minchá — Oração da Tarde",
+    "weekday_maariv": "Maariv / Arvit — Oração da Noite",
+    "bedtime_shema": "Shemá ao Deitar — Kriat Shemá al HaMitá"
+  }
+}

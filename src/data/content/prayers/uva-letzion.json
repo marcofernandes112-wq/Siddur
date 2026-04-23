@@ -1,0 +1,34 @@
+{
+  "id": "uva-letzion",
+  "prayerNodeId": "ashrei-uva-letzion",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ עוֹד יְהַלְלוּךָ סֶּלָה",
+      "אַשְׁרֵי הָעָם שֶׁכָּכָה לּוֹ אַשְׁרֵי הָעָם שֶׁה׳ אֱלֹהָיו",
+      "וּבָא לְצִיּוֹן גּוֹאֵל וּלְשָׁבֵי פֶשַׁע בְּיַעֲקֹב נְאֻם ה׳",
+      "וַאֲנִי זֹאת בְּרִיתִי אוֹתָם אָמַר ה׳"
+    ],
+    "translit": [
+      "Ashrei yoshvê vêtecha od yehallelucha Sela.",
+      "Ashrei haam shekachá lo, ashrei haam sheAdonai Elohav.",
+      "Uvá leTsiyon goél uleshavet fesha beYaakov, neum Adonai.",
+      "Vaani zot briti otam, amar Adonai."
+    ],
+    "pt": [
+      "Ditosos os que habitam na Tua casa; sempre Te louvarão, Selá.",
+      "Ditoso o povo que assim tem; ditoso o povo cujo Deus é o Eterno.",
+      "E virá a Sião um redentor e aos que voltam da transgressão em Jacó, diz o Eterno.",
+      "E quanto a Mim, esta é a Minha aliança com eles, disse o Eterno."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Ashrei (Salmo 145) + Uvá LeTzion. Exclusivo da Minchá de Shabat nesta forma completa."
+  }
+}

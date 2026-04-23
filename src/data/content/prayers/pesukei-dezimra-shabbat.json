@@ -1,0 +1,31 @@
+{
+  "id": "pesukei-dezimra-shabbat",
+  "prayerNodeId": "pesukei-dezimra-shabbat",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "נִשְׁמַת כָּל חַי תְּבָרֵךְ אֶת שִׁמְךָ ה׳ אֱלֹהֵינוּ",
+      "וְרוּחַ כָּל בָּשָׂר תְּפָאֵר וּתְרוֹמֵם זִכְרְךָ מַלְכֵּנוּ",
+      "אָז יָשִׁיר מֹשֶׁה וּבְנֵי יִשְׂרָאֵל אֶת הַשִּׁירָה הַזֹּאת לַה׳"
+    ],
+    "translit": [
+      "Nishmat kol chai tevarech et shimcha Adonai Elohênu,",
+      "veruach kol basar tifaer uteromem zichrecha malkenu.",
+      "Az yashir Moshê uvnê Yisrael et hashirá hazot laAdonai."
+    ],
+    "pt": [
+      "A alma de todo vivente abençoará Teu nome, Eterno nosso Deus,",
+      "e o espírito de toda carne exaltará e engrandecerá Tua memória, nosso Rei.",
+      "Então cantou Moisés e os filhos de Israel este cântico ao Eterno."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Psukei DeZimra estendido de Shabat: inclui Nishmat Kol Chai, Shochen Ad e Az Yashir (Shira HaYam). Texto completo a preencher."
+  }
+}

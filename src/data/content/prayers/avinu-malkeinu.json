@@ -1,0 +1,34 @@
+{
+  "id": "avinu-malkeinu",
+  "prayerNodeId": "avinu-malkeinu",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "אָבִינוּ מַלְכֵּנוּ חָטָאנוּ לְפָנֶיךָ",
+      "אָבִינוּ מַלְכֵּנוּ אֵין לָנוּ מֶלֶךְ אֶלָּא אָתָּה",
+      "אָבִינוּ מַלְכֵּנוּ עֲשֵׂה עִמָּנוּ לְמַעַן שְׁמֶךָ",
+      "אָבִינוּ מַלְכֵּנוּ חָנֵּנוּ וַעֲנֵנוּ כִּי אֵין בָּנוּ מַעֲשִׂים"
+    ],
+    "translit": [
+      "Avinu Malkênu chatanu lefanecha.",
+      "Avinu Malkênu en lanu melech ela atá.",
+      "Avinu Malkênu asê imanu lemaan shimecha.",
+      "Avinu Malkênu chanênu vaanênu ki en banu maasim."
+    ],
+    "pt": [
+      "Pai nosso, Rei nosso, pecámos diante de Ti.",
+      "Pai nosso, Rei nosso, não temos rei senão Tu.",
+      "Pai nosso, Rei nosso, faz connosco por amor do Teu nome.",
+      "Pai nosso, Rei nosso, tem misericórdia de nós e responde-nos, pois não temos méritos."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Avinu Malkeinu — recitado em Shacharit e Minchá de Rosh Hashaná e Yom Kipur. Omitido em Shabat. Texto completo (44 versículos) a preencher."
+  }
+}

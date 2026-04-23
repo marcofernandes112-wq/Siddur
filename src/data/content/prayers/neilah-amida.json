@@ -1,0 +1,34 @@
+{
+  "id": "neilah-amida",
+  "prayerNodeId": "neilah-amida",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "אַתָּה נוֹתֵן יָד לַפּוֹשְׁעִים וִימִינְךָ פְּשׁוּטָה לְקַבֵּל שָׁבִים",
+      "לְמַעַן יֶחְדְּלוּ מֵעֹשֶׁק יְדֵיהֶם",
+      "שְׁמַע קוֹלֵנוּ ה׳ אֱלֹהֵינוּ חוּס וְרַחֵם עָלֵינוּ",
+      "לְשָׁנָה הַבָּאָה בִּירוּשָׁלַיִם"
+    ],
+    "translit": [
+      "Atá notên yad laposhim viymincha pesutá lekabel shavim.",
+      "Lemaan yechdelu meoshek yadêhem.",
+      "Shema kolênu Adonai Elohênu, chus verachem alênu.",
+      "Leshana haba biYrushalayim."
+    ],
+    "pt": [
+      "Tu estendeste a mão aos pecadores e Tua destra está aberta para receber os que retornam.",
+      "Para que cessem de fazer injustiça com as suas mãos.",
+      "Ouve a nossa voz, Eterno nosso Deus, tem piedade e misericórdia de nós.",
+      "No ano próximo em Jerusalém."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Neilá — o serviço do fecho das portas ao pôr do sol de Yom Kipur. A porta da misericórdia a fechar-se. Termina com Shema + Baruch Shem + Adonai hu haElohim × 7. Texto completo a preencher."
+  }
+}

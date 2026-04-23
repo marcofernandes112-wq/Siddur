@@ -1,0 +1,34 @@
+{
+  "id": "yom-kippur-vidui",
+  "prayerNodeId": "yom-kippur-vidui",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "אָשַׁמְנוּ בָּגַדְנוּ גָּזַלְנוּ דִּבַּרְנוּ דֹּפִי",
+      "הֶעֱוִינוּ וְהִרְשַׁעְנוּ זַדְנוּ חָמַסְנוּ טָפַלְנוּ שֶׁקֶר",
+      "יָעַצְנוּ רָע כִּזַּבְנוּ לַצְנוּ מָרַדְנוּ",
+      "עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ"
+    ],
+    "translit": [
+      "Ashamnu, bagadnu, gazalnu, dibarnu dofi.",
+      "Heevinu vehirshanu, zadnu, chamásnu, tafalnu sheker.",
+      "Yaatsnu ra, kizavnu, latsnu, maradnu.",
+      "Al chet shechatanu lefanecha."
+    ],
+    "pt": [
+      "Transgredimos, traímos, roubámos, difamámos.",
+      "Pervertemos, agimos com maldade, fomos arrogantes, violentos, mentimos.",
+      "Demos maus conselhos, enganámos, zombámos, rebelámo-nos.",
+      "Pelo pecado que cometemos diante de Ti."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Vidui: Ashamnu (confissão alfabética) + Al Chet (44 pecados). Texto completo de Al Chet a preencher."
+  }
+}

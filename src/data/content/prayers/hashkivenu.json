@@ -1,0 +1,41 @@
+{
+  "id": "hashkivenu",
+  "prayerNodeId": "hashkivenu",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "הַשְׁכִּיבֵנוּ יְיָ אֱלֹהֵינוּ לְשָׁלוֹם, וְהַעֲמִידֵנוּ מַלְכֵּנוּ לְחַיִּים, וּפְרוֹשׂ עָלֵינוּ סֻכַּת שְׁלוֹמֶךָ.",
+      "וְתַקְּנֵנוּ בְּעֵצָה טוֹבָה מִלְּפָנֶיךָ, וְהוֹשִׁיעֵנוּ לְמַעַן שְׁמֶךָ. וְהָגֵן בַּעֲדֵנוּ, וְהָסֵר מֵעָלֵינוּ אוֹיֵב, דֶּבֶר, וְחֶרֶב, וְרָעָב, וְיָגוֹן.",
+      "וְהָסֵר שָׂטָן מִלְּפָנֵינוּ וּמֵאַחֲרֵינוּ, וּבְצֵל כְּנָפֶיךָ תַּסְתִּירֵנוּ, כִּי אֵל שׁוֹמְרֵנוּ וּמַצִּילֵנוּ אָתָּה, כִּי אֵל מֶלֶךְ חַנּוּן וְרַחוּם אָתָּה.",
+      "וּשְׁמוֹר צֵאתֵנוּ וּבוֹאֵנוּ, לְחַיִּים וּלְשָׁלוֹם, מֵעַתָּה וְעַד עוֹלָם.",
+      "בָּרוּךְ אַתָּה יְיָ, שׁוֹמֵר עַמּוֹ יִשְׂרָאֵל לָעַד."
+    ],
+    "translit": [
+      "Hashkivênu Adonai Elohênu leshalom, veha'amidênu Malkênu lechayim, ufros alênu sukat shlomêcha.",
+      "Vetakenênu be'êtzá tová milfanêcha, vehoshi'ênu lema'an shmêcha. Vehagên ba'adênu, vehasêr me'alênu oyêv, dêver, vecherêv, vera'av, veyagon.",
+      "Vehasêr Satan milfanênu ume'acharênu, uvtzêl kenafêcha tastirênu, ki El shomrênu umatzilênu Atá, ki El Mêlech chanun verachum Atá.",
+      "Ushmor tzei'tênu uvo'ênu, lechayim uleshalom, me'atá ve'ad olam.",
+      "Baruch Atá Adonai, shomêr amo Yisrael la'ad."
+    ],
+    "pt": [
+      "Faz-nos deitar, Eterno, nosso Deus, em paz, e faz-nos levantar, nosso Rei, para a vida; e estende sobre nós a tenda da Tua paz.",
+      "E guia-nos com bom conselho diante de Ti, e salva-nos por causa do Teu Nome. E protege-nos, e afasta de sobre nós inimigo, peste, espada, fome e tristeza.",
+      "E afasta o adversário de diante de nós e de atrás de nós, e à sombra das Tuas asas esconde-nos, pois Tu és o Deus que nos guarda e salva; pois Tu és o Deus Rei, gracioso e misericordioso.",
+      "E guarda a nossa saída e a nossa entrada, para vida e para paz, desde agora e para sempre.",
+      "Bendito sejas Tu, Eterno, que guarda o Seu povo Israel para sempre."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt"
+  }
+}

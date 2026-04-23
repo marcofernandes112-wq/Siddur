@@ -1,0 +1,50 @@
+{
+  "id": "tachanun",
+  "prayerNodeId": "tachanun-shacharit",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "אֲשַׁמְנוּ, בָּגַדְנוּ, גָּזַלְנוּ, דִּבַּרְנוּ דֹּפִי, הֶעֱוִינוּ, וְהִרְשַׁעְנוּ, זַדְנוּ, חָמַסְנוּ, טָפַלְנוּ שֶׁקֶר, יָעַצְנוּ רָע, כִּזַּבְנוּ, לַצְנוּ, מָרַדְנוּ, נִאַצְנוּ, סָרַרְנוּ, עָוִינוּ, פָּשַׁעְנוּ, צָרַרְנוּ, קִשִּׁינוּ עֹרֶף, רָשַׁעְנוּ, שִׁחַתְנוּ, תִּעַבְנוּ, תָּעִינוּ, תִּעְתָּעְנוּ.",
+      "סַרְנוּ מִמִּצְווֹתֶיךָ וּמִמִּשְׁפָּטֶיךָ הַטּוֹבִים וְלֹא שָׁוָה לָנוּ. וְאַתָּה צַדִּיק עַל כָּל הַבָּא עָלֵינוּ, כִּי אֱמֶת עָשִׂיתָ וַאֲנַחְנוּ הִרְשָׁעְנוּ.",
+      "לְדָוִד: אֵלֶיךָ יְיָ נַפְשִׁי אֶשָּׂא. אֱלֹהַי בְּךָ בָטַחְתִּי אַל אֵבוֹשָׁה, אַל יַעַלְצוּ אוֹיְבַי לִי.",
+      "דְּרָכֶיךָ יְיָ הוֹדִיעֵנִי, אֹרְחוֹתֶיךָ לַמְּדֵנִי.",
+      "זְכֹר רַחֲמֶיךָ יְיָ וַחֲסָדֶיךָ, כִּי מֵעוֹלָם הֵמָּה.",
+      "חַטֹּאות נְעוּרַי וּפְשָׁעַי אַל תִּזְכֹּר, כְּחַסְדְּךָ זָכְרֵנִי אַתָּה לְמַעַן טוּבְךָ יְיָ.",
+      "טוֹב וְיָשָׁר יְיָ עַל כֵּן יוֹרֶה חַטָּאִים בַּדָּרֶךְ.",
+      "הוֹשִׁיעֵנוּ יְיָ אֱלֹהֵינוּ, וְקַבֵּל בְּרַחֲמִים וּבְרָצוֹן אֶת תְּפִלָּתֵנוּ."
+    ],
+    "translit": [
+      "Ashamnu, bagadnu, gazalnu, dibarnu dofi, he'evinu, vehirsha'nu, zadnu, chamasnu, tafalnu shêker, ya'atznu ra, kizzavnu, latznu, maradnu, ni'atznu, sararnu, avinu, pasha'nu, tzararnu, kishinu orêf, rasha'nu, shichatnu, ti'avnu, ta'inu, tita'nu.",
+      "Sarnu mimitztvotêcha umimishpatêcha hatovim velo shavá lanu. VeAtá tzaddik al kol habá aleinu, ki emet asitá va'anachnu hirsha'nu.",
+      "LeDavid: Elêcha Adonai nafshi essá. Elohai, becha vatachti, al evoshá, al ya'altzu oyvai li.",
+      "Derachêcha Adonai hodi'êni, orchotêcha lamdêni.",
+      "Zechor rachamêcha Adonai vachasadêcha, ki me'olam hêma.",
+      "Chatot ne'urai ufsha'ai al tizkor, kechasdechá zochrêni atá lema'an tuvchá Adonai.",
+      "Tov veyashar Adonai, al ken yorê chata'im badárech.",
+      "Hoshi'ênu Adonai Elohênu, vekabêl berachamim uveratzon et Tefilatênu."
+    ],
+    "pt": [
+      "Cometemos faltas, traímos, roubámos, falámos maldosamente, pervertemos, agimos perversamente, fomos arrogantes, fizemos violência, colámos mentiras, aconselhamos o mal, mentimos, zombámos, rebelámo-nos, blasfemámos, resistimos, torcemos, transgredimos, oprimimos, endurecemos o pescoço, fomos malvados, corrompemos, abominamos, extraviámo-nos, desorientámos.",
+      "Desviámo-nos dos Teus mandamentos e das Tuas boas leis, e não nos trouxe vantagem. E Tu és justo em tudo o que nos veio, pois verdade fizeste e nós agimos com maldade.",
+      "De David: A Ti, Eterno, elevo a minha alma. Meu Deus, em Ti confio; não seja eu envergonhado, não exultem de alegria os meus inimigos por minha causa.",
+      "Os Teus caminhos, Eterno, dá-mos a conhecer; os Teus percursos, ensina-nos.",
+      "Lembra-Te das Tuas misericórdias, Eterno, e das Tuas bondades, pois desde sempre existem.",
+      "Os pecados da minha juventude e as minhas transgressões não recornes; segundo a Tua bondade, lembra-Te de mim, Tu, por causa da Tua bondade, Eterno.",
+      "Bom e reto é o Eterno; por isso ensina os pecadores no caminho.",
+      "Salva-nos, Eterno, nosso Deus, e recebe com misericórdia e boa vontade a nossa oração."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt"
+  }
+}

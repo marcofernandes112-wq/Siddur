@@ -1,0 +1,29 @@
+{
+  "id": "barchu",
+  "prayerNodeId": "barchu",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "בָּרְכוּ אֶת יְהֹוָה הַמְבֹרָךְ.",
+      "בָּרוּךְ יְהֹוָה הַמְבֹרָךְ לְעוֹלָם וָעֶד."
+    ],
+    "translit": [
+      "Barchú et Ado-nai haMevorách.",
+      "Baruch Ado-nai haMevorách leOlam vaEd."
+    ],
+    "pt": [
+      "Bendizei a Adonai, que é bendito.",
+      "Bendito seja Adonai, que é bendito, pelos séculos dos séculos."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt",
+    "notes": "Primeira linha: chamada do chazan. Segunda linha: resposta da congregação, repetida pelo chazan. Requer minian (mínimo 10 homens adultos). Não detalhado no Sidur.docx."
+  }
+}

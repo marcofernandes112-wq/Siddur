@@ -1,0 +1,29 @@
+{
+  "id": "modeh-ani",
+  "prayerNodeId": "modeh-ani",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "מוֹדֶה אֲנִי לְפָנֶיךָ מֶלֶךְ חַי וְקַיָּם, שֶׁהֶחֱזַרְתָּ בִּי נִשְׁמָתִי בְּחֶמְלָה — רַבָּה אֱמוּנָתֶךָ."
+    ],
+    "translit": [
+      "Modê ani lefanêcha, Mêlech chai vekayam, shehechezarta bi nishmati bechémla — rabá emunatêcha."
+    ],
+    "pt": [
+      "Sou grato perante Ti, Rei vivo e eterno, porque devolveste a minha alma com compaixão — grande é a Tua fidelidade."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt"
+  }
+}

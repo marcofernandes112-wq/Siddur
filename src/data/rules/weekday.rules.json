@@ -1,0 +1,23 @@
+[
+  {
+    "id": "rule-barchu-minian",
+    "appliesToPrayerNodeIds": ["barchu-shacharit", "barchu-maariv"],
+    "priority": 100,
+    "conditions": { "hasMinyan": false },
+    "action": { "type": "hide" }
+  },
+  {
+    "id": "rule-kaddish-minian",
+    "appliesToPrayerNodeIds": ["kaddish-yatom"],
+    "priority": 100,
+    "conditions": { "hasMinyan": false },
+    "action": { "type": "hide" }
+  },
+  {
+    "id": "rule-tachanun-days",
+    "appliesToPrayerNodeIds": ["tachanun-shacharit", "tachanun-mincha"],
+    "priority": 90,
+    "conditions": { "dayType": ["shabbat", "yom_tov"] },
+    "action": { "type": "hide" }
+  }
+]

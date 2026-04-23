@@ -1,0 +1,31 @@
+{
+  "id": "leitura-jonas",
+  "prayerNodeId": "leitura-jonas",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "וַיְהִי דְבַר ה׳ אֶל יוֹנָה בֶן אֲמִתַּי לֵאמֹר",
+      "קוּם לֵךְ אֶל נִינְוֵה הָעִיר הַגְּדוֹלָה וּקְרָא עָלֶיהָ",
+      "וַיִּתְהַלֵּל הָאֱלֹהִים עַל הָרָעָה אֲשֶׁר דִּבֶּר לַעֲשׂוֹת לָהֶם"
+    ],
+    "translit": [
+      "Vayehi dvar Adonai el Yona ben Amitai lemor.",
+      "Kum lech el Ninvê hair hagdolá ukrá aléha.",
+      "Vayyináchem haElohim al haraaá asher diber laasot lahem."
+    ],
+    "pt": [
+      "E veio a palavra do Eterno a Jonas, filho de Amitai, dizendo:",
+      "Levanta-te, vai a Nínive, a grande cidade, e proclama sobre ela.",
+      "E Deus arrependeu-Se do mal que dissera que lhes faria."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Haftará da Minchá de Yom Kipur: Livro de Jonas completo (4 capítulos). Texto completo a preencher."
+  }
+}

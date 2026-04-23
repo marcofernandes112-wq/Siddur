@@ -1,0 +1,31 @@
+{
+  "id": "shofarot",
+  "prayerNodeId": "shofarot",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "אַתָּה נְגַלֵּיתָ בַּעֲנַן כְּבוֹדֶךָ עַל עַם קָדְשֶׁךָ",
+      "תְּקִיעָה שְׁבָרִים תְּרוּעָה תְּקִיעָה — מֵאָה קוֹלוֹת",
+      "וּבְכֵן תֵּן פַּחְדְּךָ ה׳ אֱלֹהֵינוּ עַל כָּל מַעֲשֶׂיךָ"
+    ],
+    "translit": [
+      "Atá nigalêta baanan kevodecha al am kadshecha.",
+      "Tekiá shevarim teruá tekiá — meá kolot.",
+      "Uvechên tên pachdecha Adonai Elohênu al kol maasecha."
+    ],
+    "pt": [
+      "Tu Te revelaste na nuvem da Tua glória sobre o Teu povo sagrado.",
+      "Tekiá, shevarim, teruá, tekiá — cem toques de shofar.",
+      "E assim impõe o Teu temor, Eterno nosso Deus, sobre todas as Tuas obras."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Shofarot — 10 versículos sobre o shofar; 100 toques no total. Parte da Amidá de Musaf."
+  }
+}

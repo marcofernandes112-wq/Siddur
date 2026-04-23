@@ -1,0 +1,31 @@
+{
+  "id": "kabalat-shabat",
+  "prayerNodeId": "kabalat-shabat",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "לְכָה דוֹדִי לִקְרַאת כַּלָּה פְּנֵי שַׁבָּת נְקַבְּלָה",
+      "שָׁמוֹר וְזָכוֹר בְּדִבּוּר אֶחָד הִשְׁמִיעָנוּ אֵל הַמְּיֻחָד",
+      "ה׳ אֶחָד וּשְׁמוֹ אֶחָד לְשֵׁם וּלְתִפְאֶרֶת וְלִתְהִלָּה"
+    ],
+    "translit": [
+      "Lechá Dodí licrat kalá, penê Shabat nekabelá.",
+      "Shamor VeZachor bedibur echad hishmianu El hameyuchad.",
+      "Adonai echad ushemô echad leshem uletiferet velitehilá."
+    ],
+    "pt": [
+      "Vem, meu amado, ao encontro da noiva; recebamos a face de Shabat.",
+      "Guarda e Lembra, num único mandato, o único Deus proclamou para nós.",
+      "O Eterno é Uno e Seu nome é Uno, para glória, beleza e louvor."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Kabalat Shabat: Ps 95-99, 29 + Lecha Dodi. Texto completo a preencher."
+  }
+}

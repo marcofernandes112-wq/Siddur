@@ -1,0 +1,67 @@
+/* Local fonts — no network request, works offline and in Capacitor WebView */
+/* Cormorant Garamond: Latin + Latin-ext only (Portuguese + diacritics) */
+@import '@fontsource/cormorant-garamond/latin-400.css';
+@import '@fontsource/cormorant-garamond/latin-400-italic.css';
+@import '@fontsource/cormorant-garamond/latin-600.css';
+@import '@fontsource/cormorant-garamond/latin-700.css';
+@import '@fontsource/cormorant-garamond/latin-ext-400.css';
+@import '@fontsource/cormorant-garamond/latin-ext-400-italic.css';
+/* Frank Ruhl Libre: Hebrew subset only */
+@import '@fontsource/frank-ruhl-libre/hebrew-400.css';
+@import '@fontsource/frank-ruhl-libre/hebrew-700.css';
+@import "tailwindcss";
+@import "./tokens.css";
+@import "./typography.css";
+@import './app.css';
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.7;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg-sidebar);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-light);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-gold-dim);
+}
+
+::selection {
+  background: var(--color-gold-dim);
+  color: var(--color-gold);
+}
+
+@media print {
+  #sidebar, #mobile-nav, .no-print { display: none !important; }
+  body { background: #fff; color: #000; }
+}

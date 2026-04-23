@@ -1,0 +1,34 @@
+{
+  "id": "unetaneh-tokef",
+  "prayerNodeId": "unetaneh-tokef",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "וּנְתַנֶּה תֹּקֶף קְדֻשַּׁת הַיּוֹם כִּי הוּא נוֹרָא וְאָיֹם",
+      "בְּרֹאשׁ הַשָּׁנָה יִכָּתֵבוּן וּבְיוֹם צוֹם כִּפּוּר יֵחָתֵמוּן",
+      "מִי יִחְיֶה וּמִי יָמוּת מִי בְּקִצּוֹ וּמִי לֹא בְּקִצּוֹ",
+      "וּתְשׁוּבָה וּתְפִלָּה וּצְדָקָה מַעֲבִירִין אֶת רֹעַ הַגְּזֵרָה"
+    ],
+    "translit": [
+      "Unetanê tokef kedushat hayom ki hu norá veayom.",
+      "Berosh hashana yikateivun uveyom tsom Kipur yechatêmun.",
+      "Mi yichyê umi yamut, mi bekitso umi lo bekitso.",
+      "Uteshuva utefilá utsedaká maavirin et roa hagezêrá."
+    ],
+    "pt": [
+      "Proclamemos a força da santidade deste dia, pois ele é tremendo e terrível.",
+      "No Rosh Hashaná são inscritos e no Dia do Jejum de Yom Kipur são selados.",
+      "Quem viverá e quem morrerá, quem no seu tempo e quem antes do seu tempo.",
+      "Mas arrependimento, oração e caridade anulam o rigor do decreto."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Unetanê Tokef — oração central do juízo divino. Texto completo a preencher."
+  }
+}

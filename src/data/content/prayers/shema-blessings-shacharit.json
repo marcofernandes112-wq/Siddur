@@ -1,0 +1,59 @@
+{
+  "id": "shema-blessings-shacharit",
+  "prayerNodeId": "shema-blessings-shacharit",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "בָּרוּךְ אַתָּה יְהֹוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, יוֹצֵר אוֹר וּבוֹרֵא חֹשֶׁךְ, עֹשֶׂה שָׁלוֹם וּבוֹרֵא אֶת הַכֹּל.",
+      "הַמֵּאִיר לָאָרֶץ וְלַדָּרִים עָלֶיהָ בְּרַחֲמִים, וּבְטוּבוֹ מְחַדֵּשׁ בְּכָל יוֹם תָּמִיד מַעֲשֵׂה בְרֵאשִׁית.",
+      "מָה רַבּוּ מַעֲשֶׂיךָ יְהֹוָה, כֻּלָּם בְּחָכְמָה עָשִׂיתָ, מָלְאָה הָאָרֶץ קִנְיָנֶךָ.",
+      "הַמֶּלֶךְ הַמְרוֹמָם לְבַדּוֹ מֵאָז, הַמְשֻׁבָּח וְהַמְפֹאָר וְהַמִּתְנַשֵּׂא מִימוֹת עוֹלָם.",
+      "אֵל בָּרוּךְ גְּדוֹל דֵּעָה, הֵכִין וּפָעַל זָהֳרֵי חַמָּה, טוֹב יָצַר כָּבוֹד לִשְׁמוֹ.",
+      "בָּרוּךְ אַתָּה יְהֹוָה, יוֹצֵר הַמְּאוֹרוֹת.",
+      "אַהֲבָה רַבָּה אֲהַבְתָּנוּ יְהֹוָה אֱלֹהֵינוּ, חֶמְלָה גְדוֹלָה וִיתֵרָה חָמַלְתָּ עָלֵינוּ.",
+      "אָבִינוּ מַלְכֵּנוּ, בַּעֲבוּר שִׁמְךָ הַגָּדוֹל וּבַעֲבוּר אֲבוֹתֵינוּ שֶׁבָּטְחוּ בְךָ, וַתְּלַמְּדֵם חֻקֵּי חַיִּים, כֵּן תְּחָנֵּנוּ וּתְלַמְּדֵנוּ.",
+      "אָבִינוּ הָאָב הָרַחֲמָן, הַמְרַחֵם, רַחֵם עָלֵינוּ, וְתֵן בְּלִבֵּנוּ לְהָבִין וּלְהַשְׂכִּיל, לִשְׁמֹעַ, לִלְמֹד וּלְלַמֵּד, לִשְׁמֹר וְלַעֲשׂוֹת וּלְקַיֵּם אֶת כָּל דִּבְרֵי תַלְמוּד תּוֹרָתֶךָ בְּאַהֲבָה.",
+      "וְהָאֵר עֵינֵינוּ בְּתוֹרָתֶךָ, וְדַבֵּק לִבֵּנוּ בְּמִצְוֹתֶיךָ, וְיַחֵד לְבָבֵנוּ לְאַהֲבָה וּלְיִרְאָה אֶת שְׁמֶךָ.",
+      "כִּי בְשֵׁם קָדְשְׁךָ הַגָּדוֹל וְהַנּוֹרָא בָּטָחְנוּ, נָגִילָה וְנִשְׂמְחָה בִּישׁוּעָתֶךָ.",
+      "בָּרוּךְ אַתָּה יְהֹוָה, הַבּוֹחֵר בְּעַמּוֹ יִשְׂרָאֵל בְּאַהֲבָה."
+    ],
+    "translit": [
+      "Baruch Atá Ado-nai, Elo-heinu Melech haOlam, yotzêr or uvorê choshech, osê shalom uvorê et haKol.",
+      "HaMêir la'Aretz veladarim alêha beRachamim, uvTuvo mechadêsh bechol Yom tamid Ma'asê Vereshit.",
+      "Ma rabu Ma'asêcha Ado-nai, kulam beChochmá asitá, malá ha'Aretz Kinyanêcha.",
+      "HaMelech haMeromam levado me'az, haMeshubách vehaMefo'ar vehaMitnasê miYemot Olam.",
+      "El baruch gadol De'á, hêchin ufa'al Zoharei Chamá, tov yatzar Kavod liShmo.",
+      "Baruch Atá Ado-nai, yotzêr haMeOrot.",
+      "Ahavá Rabá ahavtanu Ado-nai Elohênu, chemlá gedolá viyterá chamaltá alênu.",
+      "Avinu Malkênu, ba'avur Shimchá haGadol uba'avur avotênu shebatchu vecha, vatelamdêm chukei Chayim, kên techonênu utelamdênu.",
+      "Avinu haAv haRachamán, haMerachem, rachem alênu, vetên belibênu lehavin ulemaskil, lishmo'a, lilmod ulemadêd, lishmor vela'asot ulkayêm et kol divrei talmud Toratechá be'ahavá.",
+      "Veha'êr einênu beToratêcha, vedabêk libênu bemitzvotêcha, veyachêd levavênu le'ahavá uleyir'á et Shmêcha.",
+      "Ki veshêm Kodshechá haGadol vehanorá batachnu, nagila venismeá bishu'atêcha.",
+      "Baruch Atá Ado-nai, habochêr be'amo Yisrael be'ahavá."
+    ],
+    "pt": [
+      "Bendito sejas Tu, Adonai, nosso Deus, Rei do universo, que formas a luz e crias a escuridão, que fazes a paz e crias tudo.",
+      "Que iluminas a terra e os que nela habitam, com misericórdia, e na Tua bondade renovas cada dia, continuamente, a obra da Criação.",
+      "Como são numerosas as Tuas obras, Adonai! Todas as fizeste com sabedoria; a terra está cheia das Tuas posses.",
+      "O Rei exaltado sozinho desde sempre, louvado, glorificado e elevado desde os dias da eternidade.",
+      "Deus bendito de grande conhecimento, preparou e formou os raios do sol; formou bem a glória do Seu Nome.",
+      "Bendito sejas Tu, Adonai, que formas as luminárias.",
+      "Com grande amor nos amaste, Adonai, nosso Deus; com grande e abundante compaixão, compaixão tiveste de nós.",
+      "Nosso Pai, nosso Rei, por amor ao Teu grande Nome e por amor aos nossos pais que confiaram em Ti, e Lhes ensinaste as leis da vida — assim também tem graça de nós e ensina-nos.",
+      "Nosso Pai, Pai misericordioso, tem misericórdia de nós, e põe no nosso coração para entender e compreender, para ouvir, aprender e ensinar, para guardar, fazer e cumprir todas as palavras do estudo da Tua Torá, com amor.",
+      "E ilumina os nossos olhos na Tua Torá, e apega o nosso coração aos Teus mandamentos, e une o nosso coração para amar e temer o Teu Nome.",
+      "Pois no Teu grande e temível Nome Santo confiamos; alegrar-nos-emos e rejubilaremos na Tua salvação.",
+      "Bendito sejas Tu, Adonai, que escolhes o Seu povo Israel com amor."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt",
+    "notes": "Completo — Yotzer Or (bênção da luz, linhas 1–6) + Ahavat Raba (bênção do amor, linhas 7–13). Recitadas antes do Shemá. Docx: 7.1."
+  }
+}

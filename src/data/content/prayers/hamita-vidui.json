@@ -1,0 +1,38 @@
+{
+  "id": "hamita-vidui",
+  "prayerNodeId": "hamita-vidui",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "רִבּוֹנוֹ שֶׁל עוֹלָם, הֲרֵינִי מוֹחֵל לְכָל מִי שֶׁהִכְעִיס וְהִקְנִיט אוֹתִי, אוֹ שֶׁחָטָא כְנֶגְדִּי, בֵּין בְּגוּפִי בֵּין בְּמָמוֹנִי, בֵּין בִּכְבוֹדִי בֵּין בְּכָל אֲשֶׁר לִי; בֵּין בְּאֹנֶס בֵּין בְּרָצוֹן, בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד, בֵּין בְּדִיבּוּר בֵּין בְּמַעֲשֶׂה, בֵּין בְּגָלוּי בֵּין בַּסָּתֶר; בְּכָל אֹפֶן שֶׁחָטְאוּ כְנֶגְדִּי.",
+      "שֶׁלֹּא יֵעָנֵשׁ שׁוּם אָדָם בִּגְלָלִי.",
+      "יְהִי רָצוֹן מִלְּפָנֶיךָ יְיָ אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי, שֶׁלֹּא אֶחֱטָא עוֹד, וּמַה שֶּׁחָטָאתִי לְפָנֶיךָ — מְחֵק בְּרַחֲמֶיךָ הָרַבִּים, אֲבָל לֹא עַל יְדֵי יִסּוּרִים וְחֳלָיִים רָעִים.",
+      "יִהְיוּ לְרָצוֹן אִמְרֵי פִי וְהֶגְיוֹן לִבִּי לְפָנֶיךָ, יְיָ צוּרִי וְגֹאֲלִי."
+    ],
+    "translit": [
+      "Ribono shel Olam, hareini mochel lechol mi shehich'is vehiknit oti, o shechata knegdi, bein begufi bein bemamoni, bein bichvodi bein bechol asher li; bein be'ones bein beratzon, bein beshogueg bein bemezid, bein bedibur bein bema'asse, bein begaluy bein basater; bechol ofen shechatu knegdi.",
+      "She-lo ye'anesh shum adam biglali.",
+      "Yehi ratzon milfanêcha Adonai Elohai veElohei avotai, she-lo echtá od, uma shechata'ti lefanêcha — mechek berachamêcha harabim, aval lo al yedei yissurim vecholayim raim.",
+      "Yihyu leratzon imrei fi vehegyon libi lefanêcha, Adonai tzuri vego'ali."
+    ],
+    "pt": [
+      "Senhor do Universo, eu perdoo todos os que me irritaram ou magoaram, ou que pecaram contra mim, seja no meu corpo, seja nos meus bens, na minha honra ou em qualquer coisa que me pertença; quer por força, quer por vontade, quer por engano, quer de propósito, por palavra ou por ação, em público ou em segredo; de qualquer maneira em que tenham pecado contra mim.",
+      "Que nenhum ser humano seja castigado por minha causa.",
+      "Seja Tua vontade, Eterno, meu Deus e Deus dos meus pais, que eu já não torne a pecar; e aquilo em que pequei diante de Ti — apaga-o com as Tuas muitas misericórdias, mas não por meio de sofrimentos e doenças más.",
+      "Sejam agradáveis, diante de Ti, as palavras da minha boca e o íntimo do meu coração, Eterno, minha Rocha e meu Redentor."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt"
+  }
+}

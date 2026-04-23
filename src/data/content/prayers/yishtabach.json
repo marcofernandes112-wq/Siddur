@@ -1,0 +1,38 @@
+{
+  "id": "yishtabach",
+  "prayerNodeId": "yishtabach",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "יִשְׁתַּבַּח שִׁמְךָ לָעַד מַלְכֵּנוּ, הָאֵל הַמֶּלֶךְ הַגָּדוֹל וְהַקָּדוֹשׁ בַּשָּׁמַיִם וּבָאָרֶץ.",
+      "כִּי לְךָ נָאֶה, יְהֹוָה אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,",
+      "שִׁיר וּשְׁבָחָה, הַלֵּל וְזִמְרָה, עֹז וּמֶמְשָׁלָה, נֶצַח, גְּדֻלָּה וּגְבוּרָה, תְּהִלָּה וְתִפְאֶרֶת, קְדֻשָּׁה וּמַלְכוּת,",
+      "בְּרָכוֹת וְהוֹדָאוֹת מֵעַתָּה וְעַד עוֹלָם.",
+      "בָּרוּךְ אַתָּה יְהֹוָה, אֵל מֶלֶךְ גָּדוֹל בַּתִּשְׁבָּחוֹת, אֵל הַהוֹדָאוֹת, אֲדוֹן הַנִּפְלָאוֹת, הַבּוֹחֵר בְּשִׁירֵי זִמְרָה, מֶלֶךְ אֵל חֵי הָעוֹלָמִים."
+    ],
+    "translit": [
+      "Yishtabach Shimchá la'ad Malkênu, haEl haMelech haGadol vehaKadosh bashamáyim uva'Aretz.",
+      "Ki lechá na'ê, Ado-nai Elohênu vElohei Avotênu,",
+      "shir ushvachá, halêl vezimrá, oz uMemshalá, netzach, Gedulá uGvurá, Tehilá veTif'eret, Kedusha uMalchut,",
+      "berachot vehoda'ot me'atá ve'ad Olam.",
+      "Baruch Atá Ado-nai, El Melech gadol baTishbachot, El haHoda'ot, Adon haNifla'ot, habochêr beShirei Zimrá, Melech El Chai haOlamim."
+    ],
+    "pt": [
+      "Seja louvado o Teu Nome para sempre, nosso Rei, o Deus, o Rei grande e santo, no céu e na terra.",
+      "Pois a Ti é belo, Adonai, nosso Deus e Deus dos nossos pais,",
+      "cântico e louvor, hino e melodia, força e domínio, eternidade, grandeza e poder, glória e esplendor, santidade e realeza,",
+      "bênçãos e agradecimentos, desde agora e para sempre.",
+      "Bendito sejas Tu, Adonai, Deus Rei grande nos louvores, Deus dos agradecimentos, Senhor das maravilhas, que escolhes os cânticos de melodia, Rei, Deus, Vivente dos mundos."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt",
+    "notes": "Bênção de encerramento de Pesukei Dezimrá. Não detalhada no Sidur.docx (linha 480: 'não vamos detalhar aqui'). Texto canónico standard."
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "rule-bedtime-short",
+    "appliesToPrayerNodeIds": ["hamita-vidui", "hamita-anjos", "hamita-salmo91"],
+    "priority": 100,
+    "conditions": { "prayerMode": ["short"] },
+    "action": { "type": "hide" }
+  },
+  {
+    "id": "rule-bedtime-guided-full",
+    "appliesToPrayerNodeIds": ["bedtime_shema"],
+    "priority": 50,
+    "conditions": { "prayerMode": ["guided"] },
+    "action": { "type": "annotate", "message": "Modo guiado activo: cada oração será apresentada passo a passo." }
+  }
+]

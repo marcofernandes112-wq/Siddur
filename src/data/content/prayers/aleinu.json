@@ -1,0 +1,47 @@
+{
+  "id": "aleinu",
+  "prayerNodeId": "aleinu-shacharit",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "עָלֵינוּ לְשַׁבֵּחַ לַאֲדוֹן הַכֹּל, לָתֵת גְּדֻלָּה לְיוֹצֵר בְּרֵאשִׁית, שֶׁלֹּא עָשָׂנוּ כְּגוֹיֵי הָאֲרָצוֹת, וְלֹא שָׂמָנוּ כְּמִשְׁפְּחוֹת הָאֲדָמָה.",
+      "שֶׁלֹּא שָׂם חֶלְקֵנוּ כָּהֶם, וְגוֹרָלֵנוּ כְּכָל הֲמוֹנָם. וַאֲנַחְנוּ כּוֹרְעִים וּמִשְׁתַּחֲוִים וּמוֹדִים, לִפְנֵי מֶלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא.",
+      "לְתַקֵּן עוֹלָם בְּמַלְכוּת שַׁדַּי, וְכָל בְּנֵי בָשָׂר יִקְרְאוּ בִשְׁמֶךָ, לְהַפְנוֹת אֵלֶיךָ כָּל רִשְׁעֵי אָרֶץ.",
+      "יַכִּירוּ וְיֵדְעוּ כָל יוֹשְׁבֵי תֵבֵל, כִּי לְךָ תִּכְרַע כָּל בֶּרֶךְ, תִּשָּׁבַע כָּל לָשׁוֹן.",
+      "לְפָנֶיךָ יְיָ אֱלֹהֵינוּ יִכְרְעוּ וְיִפֹּלוּ, וְלִכְבוֹד שִׁמְךָ יְקָר יִתֵּנוּ, וִיקַבְּלוּ כֻלָּם אֶת עֹל מַלְכוּתֶךָ.",
+      "וְתִמְלֹךְ עֲלֵיהֶם מְהֵרָה לְעוֹלָם וָעֶד, כִּי הַמַּלְכוּת שֶׁלְּךָ הִיא, וּלְעוֹלְמֵי עַד תִּמְלֹךְ בְּכָבוֹד.",
+      "כַּכָּתוּב בְּתוֹרָתֶךָ: יְיָ יִמְלֹךְ לְעֹלָם וָעֶד. וְנֶאֱמַר: וְהָיָה יְיָ לְמֶלֶךְ עַל כָּל הָאָרֶץ — בַּיּוֹם הַהוּא יִהְיֶה יְיָ אֶחָד, וּשְׁמוֹ אֶחָד."
+    ],
+    "translit": [
+      "Aleinu leshabeiach laAdon hakol, latet gedula leYotzer bereshit, shelo asanu kegoyei haaratzot, velo samanu kemishpechot haadamá.",
+      "Shelo sam chelkenu kahem, vegoralenu kechol hamonam. Vaanachnu korim umishtatachavim umodim, lifnei Mêlech malchei hamelachim haKadosh Baruch Hu.",
+      "Letakên olam bemalchut Shadai, vechol benei vasar yikreu vishêmêcha, lehafnot elêcha kol rish'ei aretz.",
+      "Yakiru veyed'u kol yoshvei têvel, ki lecha tichra kol bêrech, tishava kol lashon.",
+      "Lefanêcha Adonai Elohênu yichr'u veyipolu, velichvod shimcha yekar yitenu, viykabl'u kulam et ol malchutêcha.",
+      "Vetimloch alêhem mehêra leolam vaed, ki hamalchut shelcha hi, uleolmei ad timloch bechavod.",
+      "Kakatuv beToratêcha: Adonai yimloch leolam vaed. Veneêmar: Vehayá Adonai lemelech al kol haaretz — bayom hahu yihye Adonai Echad, ushmo Echad."
+    ],
+    "pt": [
+      "É nossa obrigação louvar o Senhor de tudo, atribuir grandeza ao Formador da criação, que não nos fez como as nações das terras, e não nos colocou como as famílias do solo.",
+      "Que não fez a nossa porção como a deles, e o nosso destino como toda a sua multidão. E nós nos curvamos, prostramos e agradecemos, perante o Rei dos reis dos reis, o Santo Bendito Ele.",
+      "Para corrigir o mundo sob o reinado do Todo-Poderoso, e todos os seres de carne invocarão o Teu nome, para que Tu voltares todos os ímpios da terra.",
+      "Reconhecerão e saberão todos os habitantes do mundo, que a Ti se curvará todo joelho, toda língua jurará.",
+      "Perante Ti, Eterno nosso Deus, se curvarão e prostrarão, e à glória do Teu nome precioso darão honra, e aceitarão todos o jugo do Teu reinado.",
+      "E reinarás sobre eles em breve, para sempre e eternamente, pois o reinado é Teu, e pelos séculos dos séculos reinarás com glória.",
+      "Como está escrito na Tua Torá: O Eterno reinará para sempre e eternamente. E diz-se: O Eterno será Rei sobre toda a terra — naquele dia o Eterno será Um e o Seu nome será Um."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt"
+  }
+}

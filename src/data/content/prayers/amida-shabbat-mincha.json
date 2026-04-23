@@ -1,0 +1,31 @@
+{
+  "id": "amida-shabbat-mincha",
+  "prayerNodeId": "shabbat-amida-mincha",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "אַתָּה אֶחָד וְשִׁמְךָ אֶחָד וּמִי כְּעַמְּךָ יִשְׂרָאֵל גּוֹי אֶחָד בָּאָרֶץ",
+      "תִּפְאֶרֶת גְּדֻלָּה וַעֲטֶרֶת יְשׁוּעָה יוֹם מְנוּחָה וּקְדֻשָּׁה לְעַמְּךָ נָתַתָּ",
+      "אַבְרָהָם יָגֵל יִצְחָק יְרַנֵּן יַעֲקֹב וּבָנָיו יָנוּחוּ בוֹ"
+    ],
+    "translit": [
+      "Atá echad veshimcha echad umi keamcha Yisrael goy echad baárets.",
+      "Tiferet gedula vaateret yeshuá yom menucha ukdusha leamcha natata.",
+      "Avraham yagel Yitschak yeranen Yaakov uvanav yanuchu vo."
+    ],
+    "pt": [
+      "Tu és Um e Teu nome é Um, e quem é como o Teu povo Israel, uma nação única na terra.",
+      "Glória de grandeza e coroa de salvação, um dia de descanso e santidade ao Teu povo deste.",
+      "Abraão se alegrará, Isaac cantará, Jacó e seus filhos descansarão nele."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Amidá de Shabat Minchá — 7 bênçãos. Bênção central: Atah Echad. Sem Tachanun. Texto completo a preencher."
+  }
+}

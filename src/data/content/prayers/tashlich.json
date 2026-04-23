@@ -1,0 +1,31 @@
+{
+  "id": "tashlich",
+  "prayerNodeId": "tashlich",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "מִי אֵל כָּמוֹךָ נֹשֵׂא עָוֹן וְעֹבֵר עַל פֶּשַׁע",
+      "וְתַשְׁלִיךְ בִּמְצֻלוֹת יָם כָּל חַטֹּאתָם",
+      "תִּתֵּן אֱמֶת לְיַעֲקֹב חֶסֶד לְאַבְרָהָם"
+    ],
+    "translit": [
+      "Mi El kamochá nosê avon veovêr al pesha.",
+      "Vetashlích bimtsulot yam kol chatotam.",
+      "Titên emet leYaakov chesed leAvraham."
+    ],
+    "pt": [
+      "Quem é Deus como Tu, que perdoa a iniquidade e passa sobre a transgressão.",
+      "E lançarás nas profundezas do mar todos os seus pecados.",
+      "Darás verdade a Jacó, misericórdia a Abraão."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Tashlich — lançamento simbólico de pecados à água, tarde do 1º dia de Rosh Hashaná."
+  }
+}

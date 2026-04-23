@@ -1,0 +1,38 @@
+{
+  "id": "hamita-anjos",
+  "prayerNodeId": "hamita-anjos",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "בְּשֵׁם יְיָ אֱלֹהֵי יִשְׂרָאֵל: מִימִינִי מִיכָאֵל, וּמִשְּׂמֹאלִי גַּבְרִיאֵל, וּמִלְּפָנַי אוּרִיאֵל, וּמֵאַחֲרַי רְפָאֵל, וְעַל רֹאשִׁי שְׁכִינַת אֵל.",
+      "הַמַּלְאָךְ הַגֹּאֵל אֹתִי מִכָּל רָע, יְבָרֵךְ אֶת הַנְּעָרִים, וְיִקָּרֵא בָהֶם שְׁמִי וְשֵׁם אֲבֹתַי אַבְרָהָם וְיִצְחָק, וְיִדְגּוּ לָרֹב בְּקֶרֶב הָאָרֶץ.",
+      "בְּיָדְךָ אַפְקִיד רוּחִי, פָּדִיתָ אוֹתִי יְיָ אֵל אֱמֶת.",
+      "יְיָ לִי, לֹא אִירָא — מַה יַּעֲשֶׂה לִי אָדָם?"
+    ],
+    "translit": [
+      "Beshêm Adonai Elohei Yisrael: miYemini Micha'el, umismoli Gavri'el, umilfanai Uri'el, ume'achorai Refa'el, ve'al roshi Shchinat El.",
+      "HaMalach haGoel oti mikol ra, yevarêch et hane'arim, veyikaré vahem shmi veshêm avotai Avraham veYitzchak, veyidgu larov bekerev haAretz.",
+      "Beyadchá afkid ruchi, padita oti Adonai El emet.",
+      "Adonai li, lo ira — ma ya'assê li adam?"
+    ],
+    "pt": [
+      "Em nome do Eterno, Deus de Israel: à minha direita, Micha'el; à minha esquerda, Gavri'el; à minha frente, Uri'el; atrás de mim, Refa'el; e sobre a minha cabeça, a Presença Divina.",
+      "O Anjo que me redime de todo o mal abençoe os jovens, e seja neles chamado o meu nome e o nome dos meus pais Avraham e Yitzchak, e que se multipliquem em abundância no meio da terra.",
+      "Nas Tuas mãos entrego o meu espírito; Tu me resgataste, Eterno, Deus de verdade.",
+      "O Eterno está comigo, não temerei — que me poderá fazer o ser humano?"
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt"
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sidur</string>
+    <string name="title_activity_main">Sidur</string>
+    <string name="package_name">com.sidur.app</string>
+    <string name="custom_url_scheme">com.sidur.app</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "id": "netilat-yadayim",
+  "prayerNodeId": "netilat-yadayim",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "בָּרוּךְ אַתָּה יְהֹוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל נְטִילַת יָדָיִם."
+    ],
+    "translit": [
+      "Baruch Atá Ado-nai, Elo-heinu Melech haOlam, asher Kideshanu beMitzvotav veTzivanu al Netilat Yadayim."
+    ],
+    "pt": [
+      "Bendito sejas Tu, Adonai, nosso Deus, Rei do universo, que nos santificaste com os Teus mandamentos e nos ordenaste sobre a lavagem das mãos."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "blessing"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt",
+    "notes": "Diz-se após a lavagem alternada das mãos (3 vezes cada), depois de as secar. A berachá é dita de pé, com as mãos secas."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "emet-veemuna",
+  "prayerNodeId": "emet-veemuna",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "אֱמֶת וֶאֱמוּנָה כָּל זֹאת, וְקַיָּם עָלֵינוּ, כִּי הוּא יְיָ אֱלֹהֵינוּ וְאֵין זוּלָתוֹ, וַאֲנַחְנוּ יִשְׂרָאֵל עַמּוֹ.",
+      "הַפּוֹדֵנוּ מִיַּד מְלָכִים, מַלְכֵּנוּ הַגּוֹאֲלֵנוּ מִכַּף כָּל הֶעָרִיצִים.",
+      "הָאֵל הַנִּפְרָע לָנוּ מִצָּרֵינוּ, וְהַמְשַׁלֵּם גְּמוּל לְכָל אוֹיְבֵי נַפְשֵׁנוּ.",
+      "הָעוֹשֶׂה גְדוֹלוֹת עַד אֵין חֵקֶר, וְנִפְלָאוֹת עַד אֵין מִסְפָּר.",
+      "הַשָּׂם נַפְשֵׁנוּ בַּחַיִּים, וְלֹא נָתַן לַמּוֹט רַגְלֵנוּ.",
+      "מִי כָמוֹכָה בָּאֵלִים יְיָ, מִי כָּמֹכָה נֶאְדָּר בַּקֹּדֶשׁ, נוֹרָא תְהִלֹּת עֹשֵׂה פֶלֶא?",
+      "שִׁירָה חֲדָשָׁה שִׁבְּחוּ גְאוּלִים לְשִׁמְךָ עַל שְׂפַת הַיָּם, יַחַד כֻּלָּם הוֹדוּ וְהִמְלִיכוּ וְאָמְרוּ: יְיָ יִמְלֹךְ לְעֹלָם וָעֶד.",
+      "צוּר יִשְׂרָאֵל, קוּמָה בְּעֶזְרַת יִשְׂרָאֵל, וּפְדֵה כִנְאֻמֶךָ יְהוּדָה וְיִשְׂרָאֵל. גֹּאֲלֵנוּ יְיָ צְבָאוֹת שְׁמוֹ, קְדוֹשׁ יִשְׂרָאֵל.",
+      "בָּרוּךְ אַתָּה יְיָ, גָּאַל יִשְׂרָאֵל."
+    ],
+    "translit": [
+      "Emet ve'emuna kol zot, vekayam alênu, ki Hu Adonai Elohênu ve'ein zulatò, va'anachnu Yisrael amo.",
+      "HaPodênu miyad melachim, Malkênu haGo'alênu mikaf kol he'aritzim.",
+      "HaEl haNifra lanu mitzorerênu, vehaMeshalêm gemul lechol oyevei nafshênu.",
+      "Ha'osê gedolot ad ein chêker, venifla'ot ad ein mispar.",
+      "HaSam nafshênu bachayim, velo natan lamot raglênu.",
+      "Mi chamocha ba'elim Adonai, mi kamocha ne'dar bakodesh, norá tehillot osê féle?",
+      "Shirá chadashá shibchu ge'ulim leshimchá al sfat hayam, yachad kulam hodu vehimlichu ve'amru: Adonai yimloch le'olam va'ed.",
+      "Tzur Yisrael, kumá be'ezrat Yisrael, ufdê chin'umechá Yehudá veYisrael. Go'alênu Adonai Tzeva'ot shmo, Kedosh Yisrael.",
+      "Baruch Atá Adonai, ga'al Yisrael."
+    ],
+    "pt": [
+      "Verdade e fé é tudo isto, e permanente sobre nós, pois Ele é o Eterno, nosso Deus, e não há outro além d'Ele, e nós somos Israel, o Seu povo.",
+      "O que nos resgata da mão dos reis, o nosso Rei, que nos redime das garras de todos os tiranos.",
+      "O Deus que nos vinga dos nossos adversários, e retribui o merecido a todos os inimigos da nossa alma.",
+      "O que faz grandezas além de toda investigação, e maravilhas além de todo número.",
+      "O que coloca a nossa alma na vida, e não deixou o nosso pé vacilar.",
+      "Quem é como Tu entre os poderosos, Eterno? Quem é como Tu, glorioso na santidade, temível nos louvores, Fazedor de maravilhas?",
+      "Um novo cântico os remidos louvaram ao Teu Nome sobre a margem do mar; juntos, todos deram graças e O fizeram reinar, e disseram: O Eterno reinará para todo o sempre.",
+      "Rocha de Israel, levanta-Te em auxílio de Israel, e resgata, como prometeste, Judá e Israel. O nosso Redentor, o Eterno dos Exércitos é o Seu Nome, o Santo de Israel.",
+      "Bendito sejas Tu, Eterno, que redimiu Israel."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt"
+  }
+}

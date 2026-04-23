@@ -1,0 +1,31 @@
+{
+  "id": "amida-shabbat-shacharit",
+  "prayerNodeId": "shabbat-amida-shacharit",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "יִשְׂמַח מֹשֶׁה בְּמַתְּנַת חֶלְקוֹ כִּי עֶבֶד נֶאֱמָן קָרָאתָ לּוֹ",
+      "כְּלִיל תִּפְאֶרֶת בְּרֹאשׁוֹ נָתַתָּ בְּעָמְדוֹ לְפָנֶיךָ עַל הַר סִינַי",
+      "קְדֻשַּׁת הַיּוֹם — קַדֵּשׁ אֶת שִׁמְךָ בָּעוֹלָם כְּשֵׁם שֶׁמַּקְדִּישִׁים אוֹתוֹ"
+    ],
+    "translit": [
+      "Yismach Moshê bematan chelkô ki eved neemán karata lo.",
+      "Kelil tiferet berosho natata beomdo lefanecha al har Sinai.",
+      "Kedushah hayom — Kadesh et shimcha baolam keshem sheemakdishim otô."
+    ],
+    "pt": [
+      "Moisés alegrou-se com o dom de sua porção, pois servo fiel o chamaste.",
+      "Uma coroa de glória em sua cabeça puseste ao ele estar diante de Ti no monte Sinai.",
+      "Santidade do Dia — Santifica Teu nome no mundo como o santificam."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Amidá de Shabat Shacharit — 7 bênçãos. Bênção central: Kedushat HaYom. Kedushah versão Keter (Nusach Ari). Texto completo a preencher."
+  }
+}

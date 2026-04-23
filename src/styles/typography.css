@@ -1,0 +1,50 @@
+.text-hebrew {
+  font-family: var(--font-hebrew);
+  font-size: var(--font-hebrew-size);
+  direction: rtl;
+  text-align: right;
+  color: var(--color-hebrew);
+  line-height: 2;
+}
+
+.text-translit {
+  font-family: var(--font-body);
+  font-size: var(--font-translit-size);
+  font-style: italic;
+  color: var(--color-translit);
+  line-height: 1.7;
+}
+
+.text-translation {
+  font-family: var(--font-body);
+  font-size: var(--font-translation-size);
+  color: var(--color-text);
+  line-height: 1.8;
+}
+
+.text-instruction {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 0.9rem;
+  text-align: center;
+  color: var(--color-instruction);
+}
+
+.text-gold {
+  color: var(--color-gold);
+}
+
+.section-title-text {
+  font-family: var(--font-body);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--color-gold);
+  text-align: center;
+}
+
+.prayer-title-text {
+  font-family: var(--font-body);
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--color-gold);
+}

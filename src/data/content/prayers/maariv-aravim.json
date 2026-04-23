@@ -1,0 +1,38 @@
+{
+  "id": "maariv-aravim",
+  "prayerNodeId": "maariv-aravim",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר בִּדְבָרוֹ מַעֲרִיב עֲרָבִים, בְּחָכְמָה פּוֹתֵחַ שְׁעָרִים, וּבִתְבוּנָה מְשַׁנֶּה עִתִּים, וּמַחֲלִיף אֶת הַזְּמַנִּים, וּמְסַדֵּר אֶת הַכּוֹכָבִים בְּמִשְׁמְרוֹתֵיהֶם בָּרָקִיעַ כִּרְצוֹנוֹ.",
+      "בּוֹרֵא יוֹם וָלָיְלָה, גּוֹלֵל אוֹר מִפְּנֵי חֹשֶׁךְ וְחֹשֶׁךְ מִפְּנֵי אוֹר, וּמַעֲבִיר יוֹם וּמֵבִיא לָיְלָה, וּמַבְדִּיל בֵּין יוֹם וּבֵין לָיְלָה, יְיָ צְבָאוֹת שְׁמוֹ.",
+      "אֵל חַי וְקַיָּם תָּמִיד יִמְלוֹךְ עָלֵינוּ לְעוֹלָם וָעֶד.",
+      "בָּרוּךְ אַתָּה יְיָ, הַמַּעֲרִיב עֲרָבִים."
+    ],
+    "translit": [
+      "Baruch Atá Adonai Elohênu mêlech haOlam, ashêr bidvaro ma'ariv arávim, bechochmá potêach she'arim, uvitbuná meshanê itim, umachalif et hazmanim, umsadêr et hakochavim bemishmerotêhem barakía kiretzonó.",
+      "Borê yom valayla, golêl or mipnei choshech vechoshech mipnei or, uma'avir yom umevî layla, umavdil bein yom uvein layla, Adonai Tzeva'ot shmo.",
+      "El chai vekayam tamid yimloch alênu le'olam va'ed.",
+      "Baruch Atá Adonai, haMa'ariv arávim."
+    ],
+    "pt": [
+      "Bendito sejas Tu, Eterno, nosso Deus, Rei do universo, que com a Sua palavra faz entrar a tarde, com sabedoria abre as portas, e com entendimento muda os tempos e alterna as estações, e ordena as estrelas nas suas constelações no firmamento, segundo a Sua vontade.",
+      "Criador do dia e da noite, que enrola a luz diante da escuridão e a escuridão diante da luz, que faz passar o dia e traz a noite, e distingue entre dia e noite — o Eterno dos Exércitos é o Seu Nome.",
+      "Deus vivo e eterno sempre reinará sobre nós, pelos séculos dos séculos.",
+      "Bendito sejas Tu, Eterno, que faz entrar a tarde."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt"
+  }
+}

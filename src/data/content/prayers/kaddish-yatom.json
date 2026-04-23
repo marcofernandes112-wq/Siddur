@@ -1,0 +1,45 @@
+{
+  "id": "kaddish-yatom",
+  "prayerNodeId": "kaddish-yatom",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא, בְּעָלְמָא דִּי בְרָא כִרְעוּתֵהּ. וְיַמְלִיךְ מַלְכוּתֵהּ בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן וּבְחַיֵּי דְכָל בֵּית יִשְׂרָאֵל, בַּעֲגָלָא וּבִזְמַן קָרִיב, וְאִמְרוּ אָמֵן.",
+      "יְהֵא שְׁמֵהּ רַבָּא מְבָרַךְ לְעָלַם וּלְעָלְמֵי עָלְמַיָּא.",
+      "יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר וְיִתְרוֹמַם וְיִתְנַשֵּׂא וְיִתְהַדָּר וְיִתְעַלֶּה וְיִתְהַלָּל שְׁמֵהּ דְּקֻדְשָׁא, בְּרִיךְ הוּא,",
+      "לְעֵלָּא מִן כָּל בִּרְכָתָא וְשִׁירָתָא, תֻּשְׁבְּחָתָא וְנֶחֱמָתָא, דַּאֲמִירָן בְּעָלְמָא, וְאִמְרוּ אָמֵן.",
+      "יְהֵא שְׁלָמָא רַבָּא מִן שְׁמַיָּא, וְחַיִּים, עָלֵינוּ וְעַל כָּל יִשְׂרָאֵל, וְאִמְרוּ אָמֵן.",
+      "עוֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו, הוּא יַעֲשֶׂה שָׁלוֹם עָלֵינוּ וְעַל כָּל יִשְׂרָאֵל, וְאִמְרוּ אָמֵן."
+    ],
+    "translit": [
+      "Yitgadal veyitkadash shmêh rabá, be'almá di verá chireu'têh. Veyamlích malchutêh bechayêchon uvyomêchon uvchayei dechol beit Yisrael, ba'agalá uvizman kariv, ve'imru amên.",
+      "Yehê shmêh rabá mevarách le'alam ul'almei almayá.",
+      "Yitbarach veyishtabbach veyitpa'ar veyitromam veyitnaseh veyithadar veyit'aleh veyithalal shmêh dekudshá, berich Hu,",
+      "le'êlá min kol birchatá veshiratá, tushbechtá venechematá, da'amiran be'almá, ve'imru amên.",
+      "Yehê shlamá rabá min shemayá, vechayim, alênu ve'al kol Yisrael, ve'imru amên.",
+      "Osê shalom biMromav, Hu ya'assê shalom alênu ve'al kol Yisrael, ve'imru amên."
+    ],
+    "pt": [
+      "Que seja engrandecido e santificado o Seu grande Nome, no mundo que Ele criou segundo a Sua vontade. E que faça reinar o Seu reino nos vossos dias e nos vossos anos, e na vida de toda a casa de Israel, brevemente e em tempo próximo; e dizei: Amém.",
+      "Que o Seu grande Nome seja bendito para todo o sempre.",
+      "Que seja bendito, louvado, glorificado, exaltado, elevado, honrado, sublimado e celebrado o Nome do Santo, bendito seja Ele,",
+      "acima de todas as bênçãos e cânticos, louvores e consolações, que se dizem no mundo; e dizei: Amém.",
+      "Que haja grande paz dos céus, e vida, sobre nós e sobre todo Israel; e dizei: Amém.",
+      "Que Aquele que faz paz nas Suas alturas, faça paz sobre nós e sobre todo Israel; e dizei: Amém."
+    ]
+  },
+  "display": {
+    "direction": "rtl",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt",
+    "notes": "Texto predominantemente em aramaico. Diz-se com minian (mínimo 10 homens adultos). Versão Kaddish Yatom (dos órfãos), dita por enlutados durante 11 meses após o falecimento de pai/mãe."
+  }
+}

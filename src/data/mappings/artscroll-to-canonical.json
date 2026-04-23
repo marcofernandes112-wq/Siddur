@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "description": "Maps Artscroll JSON keys to canonical PrayerNode IDs",
+  "mappings": {
+    "Upon Arising/Modeh Ani": "modeh-ani",
+    "Upon Arising/Tallit": "netilat-yadayim",
+    "Weekday Shacharit/Morning Blessings": "birkot-hashachar",
+    "Weekday Shacharit/Blessings on Torah": "birkot-hatorah",
+    "Weekday Shacharit/Morning Prayer": "pesukei-dezimra",
+    "Weekday Shacharit/Yishtabach": "yishtabach",
+    "Weekday Shacharit/The Shema": "shema-shacharit",
+    "Weekday Shacharit/Amidah": "amida-shacharit",
+    "Weekday Shacharit/Tachanun": "tachanun-shacharit",
+    "Weekday Shacharit/Aleinu": "aleinu-shacharit",
+    "Weekday Mincha/Amidah": "mincha-amida",
+    "Weekday Mincha/Tachanun": "tachanun-mincha",
+    "Weekday Maariv/The Shema": "shema-maariv",
+    "Weekday Maariv/Amidah": "amida-maariv",
+    "Bedtime Shema": "bedtime_shema"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "leitura-torah-mincha-shabbat",
+  "prayerNodeId": "leitura-torah-mincha-shabbat",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "בָּרְכוּ אֶת ה׳ הַמְּבֹרָךְ",
+      "בָּרוּךְ ה׳ הַמְּבֹרָךְ לְעוֹלָם וָעֶד",
+      "בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם אֲשֶׁר בָּחַר בָּנוּ מִכָּל הָעַמִּים",
+      "וְנָתַן לָנוּ אֶת תּוֹרָתוֹ בָּרוּךְ אַתָּה ה׳ נוֹתֵן הַתּוֹרָה"
+    ],
+    "translit": [
+      "Barchu et Adonai hamevorac.",
+      "Baruch Adonai hamevorac leolam vaed.",
+      "Baruch Atá Adonai Elohênu Melech haolam asher bachar banu mikol haamim,",
+      "venatan lanu et toratô. Baruch Atá Adonai, noten haTorá."
+    ],
+    "pt": [
+      "Bendizei ao Eterno o Bendito.",
+      "Bendito é o Eterno, o Bendito, por toda a eternidade.",
+      "Bendito és Tu, Eterno nosso Deus, Rei do universo, que nos escolheste de entre todos os povos",
+      "e nos deste a Sua Torá. Bendito és Tu, Eterno, dador da Torá."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "blessing"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Leitura da Torá na Minchá de Shabat: 3 aliot, início da parashá da semana seguinte."
+  }
+}

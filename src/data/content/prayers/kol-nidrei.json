@@ -1,0 +1,34 @@
+{
+  "id": "kol-nidrei",
+  "prayerNodeId": "kol-nidrei",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "כָּל נִדְרֵי וֶאֱסָרֵי וּשְׁבוּעֵי וַחֲרָמֵי וְקוֹנָמֵי",
+      "דִּנְדַרְנָא וּדְאִשְׁתַּבַּעְנָא וּדְאַחֲרִימְנָא וּדְאָסַרְנָא עַל נַפְשָׁתָנָא",
+      "כֻּלְּהוֹן אִחֲרַטְנָא בְהוֹן כֻּלְּהוֹן יְהוֹן שָׁרָן שְׁבִיקִין שְׁבִיתִין",
+      "שְׁבִיקִין וּמְבֻטָּלִין לָא שְׁרִירִין וְלָא קַיָּמִין"
+    ],
+    "translit": [
+      "Kol nidrê veesarê ushvuê vacharamê vekonamê,",
+      "dindarná udishatabáná udacharimná udasarná al nafshátana,",
+      "kulhon icharátna vehon, kulhon yehon sharán shevikín shevitín,",
+      "shevikín umvutalín, lá sherirrín velá kayamín."
+    ],
+    "pt": [
+      "Todos os votos, proibições, juramentos, decretos e promessas,",
+      "que fizermos, jurarmos, anunciarmos e obrigarmos sobre nós mesmos,",
+      "de todos eles nos arrependemos; que todos sejam liberados, perdoados, anulados,",
+      "cancelados e sem efeito; não válidos e não obrigatórios."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Kol Nidrei — anulação de votos. Recitado três vezes na véspera de Yom Kipur, ao anoitecer."
+  }
+}

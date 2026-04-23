@@ -1,0 +1,37 @@
+{
+  "id": "havdala",
+  "prayerNodeId": "havdala",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "הִנֵּה אֵל יְשׁוּעָתִי אֶבְטַח וְלֹא אֶפְחָד",
+      "בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא פְּרִי הַגָּפֶן",
+      "בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא מִינֵי בְשָׂמִים",
+      "בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא מְאוֹרֵי הָאֵשׁ",
+      "בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם הַמַּבְדִּיל בֵּין קֹדֶשׁ לְחֹל"
+    ],
+    "translit": [
+      "Hiné El yeshuati evtach velo efchad.",
+      "Baruch Atá Adonai Elohênu Melech haolam, borê peri hagafen.",
+      "Baruch Atá Adonai Elohênu Melech haolam, borê minê vesamim.",
+      "Baruch Atá Adonai Elohênu Melech haolam, borê meorei haesh.",
+      "Baruch Atá Adonai Elohênu Melech haolam, hamavdil bên kodesh lechol."
+    ],
+    "pt": [
+      "Eis que Deus é a minha salvação; confiarei e não temerei.",
+      "Bendito és Tu, Eterno nosso Deus, Rei do universo, que crias o fruto da videira.",
+      "Bendito és Tu, Eterno nosso Deus, Rei do universo, que crias espécies de especiarias.",
+      "Bendito és Tu, Eterno nosso Deus, Rei do universo, que crias as luzes do fogo.",
+      "Bendito és Tu, Eterno nosso Deus, Rei do universo, que separas o sagrado do profano."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "blessing"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "notes": "Havdalá: vinho, besamim, fogo, separação. Marca o fim do Shabat."
+  }
+}

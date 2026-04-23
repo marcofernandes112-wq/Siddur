@@ -1,0 +1,34 @@
+{
+  "id": "amida-shabbat-maariv",
+  "prayerNodeId": "shabbat-amida-maariv",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "אַתָּה קִדַּשְׁתָּ אֶת יוֹם הַשְּׁבִיעִי לִשְׁמֶךָ",
+      "תַּכְלִית מַעֲשֵׂה שָׁמַיִם וָאָרֶץ",
+      "וּבֵרַכְתּוֹ מִכָּל הַיָּמִים וְקִדַּשְׁתּוֹ מִכָּל הַזְּמַנִּים",
+      "מָגֵן אָבוֹת בִּדְבָרוֹ מְחַיֵּה מֵתִים בְּמַאֲמָרוֹ"
+    ],
+    "translit": [
+      "Atá kidashta et yom hashevii lishmecha,",
+      "tachlit maasê shamayim vaárets.",
+      "Uverachto mikol hayamim vekidashto mikol hazemanim.",
+      "Magen avot bidvaró, mechaié meitim bemamaró."
+    ],
+    "pt": [
+      "Tu santificaste o sétimo dia em Teu nome,",
+      "ponto culminante da criação dos céus e da terra.",
+      "Abençoaste-o acima de todos os dias e santificaste-o acima de todos os tempos.",
+      "Escudo dos pais com Sua palavra, Ressuscitador dos mortos com Seu dizer."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Amidá de Shabat Maariv — 7 bênçãos. Bênção central: Magen Avot. Texto completo a preencher."
+  }
+}

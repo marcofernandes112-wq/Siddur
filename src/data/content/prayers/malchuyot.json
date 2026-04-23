@@ -1,0 +1,31 @@
+{
+  "id": "malchuyot",
+  "prayerNodeId": "malchuyot",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "עָלֵינוּ לְשַׁבֵּחַ לַאֲדוֹן הַכֹּל לָתֵת גְּדֻלָּה לְיוֹצֵר בְּרֵאשִׁית",
+      "וְנֶאֱמַר וְהָיָה ה׳ לְמֶלֶךְ עַל כָּל הָאָרֶץ",
+      "בַּיּוֹם הַהוּא יִהְיֶה ה׳ אֶחָד וּשְׁמוֹ אֶחָד"
+    ],
+    "translit": [
+      "Alênu leshabeach laAdon hakol, latet gedula leYotser bereshit.",
+      "Veneémar vehayá Adonai lemelech al kol haárets.",
+      "Bayom hahu yihyê Adonai echad ushemô echad."
+    ],
+    "pt": [
+      "É nosso dever louvar o Senhor de tudo, atribuir grandeza ao Formador da criação.",
+      "E está dito: O Eterno será Rei sobre toda a terra.",
+      "Naquele dia o Eterno será Uno e Seu nome Uno."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Malchuyot — 10 versículos sobre a soberania divina. Parte da Amidá de Musaf de Rosh Hashaná."
+  }
+}

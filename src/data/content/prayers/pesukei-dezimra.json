@@ -1,0 +1,36 @@
+{
+  "id": "pesukei-dezimra",
+  "prayerNodeId": "pesukei-dezimra",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "הוֹדוּ לַיְיָ קִרְאוּ בִשְׁמוֹ, הוֹדִיעוּ בָעַמִּים עֲלִילוֹתָיו. שִׁירוּ לוֹ זַמְּרוּ לוֹ, שִׂיחוּ בְּכָל נִפְלְאוֹתָיו.",
+      "הַלְלוּ אֵל בְּקָדְשׁוֹ, הַלְלוּהוּ בִּרְקִיעַ עֻזּוֹ. הַלְלוּהוּ בִגְבוּרֹתָיו, הַלְלוּהוּ כְּרֹב גֻּדְלוֹ. הַלְלוּהוּ בְּתֵקַע שׁוֹפָר, הַלְלוּהוּ בְּנֵבֶל וְכִנּוֹר. הַלְלוּהוּ בְתֹף וּמָחוֹל, הַלְלוּהוּ בְּמִנִּים וְעֻגָב. הַלְלוּהוּ בְצִלְצְלֵי שָׁמַע, הַלְלוּהוּ בְּצִלְצְלֵי תְרוּעָה. כֹּל הַנְּשָׁמָה תְּהַלֵּל יָהּ, הַלְלוּיָהּ.",
+      "כֹּל הַנְּשָׁמָה תְּהַלֵּל יָהּ, הַלְלוּיָהּ."
+    ],
+    "translit": [
+      "Hodu laAdonai kir'u vishmo, hodi'u va'amim alilotav. Shiru lo zamru lo, sichu bechol nifle'otav.",
+      "Hallelu El bekádsho, halelluhu biRkia uzzo. Halelluhu viGvurotav, halelluhu krov gudlo. Halelluhu betêka shofar, halelluhu beneivel vechinor. Halelluhu betof umachol, halelluhu beminim ve'ugav. Halelluhu betziltzlei shama, halelluhu betziltzlei tru'á. Kol haneshama tehalêl Yah, Halleluyah.",
+      "Kol haneshama tehalêl Yah, Halleluyah."
+    ],
+    "pt": [
+      "Agradecei ao Eterno, invocai o Seu Nome; anunciai as Suas obras entre os povos. Cantai-Lhe, entoai-Lhe hinos; meditai em todas as Suas maravilhas.",
+      "Louvai a Deus no Seu santuário; louvai-O no firmamento do Seu poder. Louvai-O pelas Suas proezas; louvai-O segundo a Sua imensidão. Louvai-O com o som da trombeta; louvai-O com alaúde e cítara. Louvai-O com adufes e dança; louvai-O com instrumentos de corda e flauta. Louvai-O com címbalos retumbantes; louvai-O com címbalos de jubilo. Toda a alma louve o Eterno! Aleluia!",
+      "Toda a alma louve o Eterno! Aleluia!"
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "biblical",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt",
+    "notes": "Pesukei DeZimrá inclui Hodu (1 Crónicas 16), Salmos 146–150, e outros. Esta secção representa os louvores de abertura e o Halel final (Salmo 150). A secção completa vai de Baruch SheAmar até Yishtabach. Disponível apenas em modo completo."
+  }
+}

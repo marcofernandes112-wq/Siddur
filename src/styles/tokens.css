@@ -1,0 +1,98 @@
+:root {
+  /* Color palette */
+  --color-bg: #121212;
+  --color-bg-sidebar: #0a0a0a;
+  --color-bg-card: #1e1714;
+  --color-bg-input: #1a1510;
+  --color-gold: #d4af37;
+  --color-gold-dim: rgba(212, 175, 55, 0.15);
+  --color-gold-hover: rgba(212, 175, 55, 0.08);
+  --color-text: #e0c097;
+  --color-text-dim: #a89070;
+  --color-text-muted: #665840;
+  --color-border: #2a2218;
+  --color-border-light: #3a3020;
+  --color-hebrew: #ffffff;
+  --color-translit: #7eaacc;
+  --color-minian: #2a6040;
+  --color-instruction: #8a7a6a;
+  --color-kavana-bg: rgba(212, 175, 55, 0.08);
+  --color-mussar-bg: rgba(126, 170, 204, 0.08);
+
+  /* Sepia theme overrides */
+  --sepia-bg: #f5f0e8;
+  --sepia-text: #2a1f0f;
+  --sepia-gold: #8b6914;
+
+  /* Typography */
+  --font-body: 'Cormorant Garamond', Georgia, serif;
+  --font-hebrew: 'Frank Ruhl Libre', 'SBL Hebrew', 'Times New Roman', serif;
+  --font-ui: system-ui, -apple-system, sans-serif;
+
+  /* Font scale base */
+  --font-scale: 1;
+  --font-hebrew-size: calc(1.55rem * var(--font-scale));
+  --font-translit-size: calc(0.95rem * var(--font-scale));
+  --font-translation-size: calc(1rem * var(--font-scale));
+
+  /* Layout */
+  --sidebar-width: 300px;
+  --content-max-width: 820px;
+  --header-height: 56px;
+
+  /* Transitions */
+  --transition-fast: 0.15s ease;
+  --transition-base: 0.25s ease;
+
+  /* Z-index layers */
+  --z-sidebar: 100;
+  --z-header: 200;
+  --z-modal: 300;
+  --z-toast: 400;
+
+  /* Module identity colors */
+  --module-semanal: #1D9E75;
+  --module-shabbat: #7F77DD;
+  --module-machzor: #D85A30;
+  --module-shabbat-dim: rgba(127, 119, 221, 0.12);
+  --module-shabbat-hover: rgba(127, 119, 221, 0.08);
+  --module-machzor-dim: rgba(216, 90, 48, 0.12);
+  --module-machzor-hover: rgba(216, 90, 48, 0.08);
+  /* Dynamic accent — overridden inline by GuidedFlow per module */
+  --module-accent: #1D9E75;
+  --module-accent-dim: rgba(29, 158, 117, 0.12);
+}
+
+[data-theme="sepia"] {
+  --color-bg: #f5f0e8;
+  --color-bg-sidebar: #ede8df;
+  --color-bg-card: #ede5d5;
+  --color-bg-input: #e8e0d0;
+  --color-gold: #8b6914;
+  --color-gold-dim: rgba(139, 105, 20, 0.15);
+  --color-gold-hover: rgba(139, 105, 20, 0.08);
+  --color-text: #2a1f0f;
+  --color-text-dim: #5a4a30;
+  --color-text-muted: #8a7a60;
+  --color-border: #d4c8b0;
+  --color-border-light: #c8bca0;
+  --color-hebrew: #1a0f00;
+  --color-translit: #2a5a8a;
+}
+
+[data-theme="light"] {
+  --color-bg: #fafaf8;
+  --color-bg-sidebar: #f2f0ec;
+  --color-bg-card: #f0ece4;
+  --color-bg-input: #eae6de;
+  --color-gold: #9a7a10;
+  --color-gold-dim: rgba(154, 122, 16, 0.12);
+  --color-gold-hover: rgba(154, 122, 16, 0.06);
+  --color-text: #1a1208;
+  --color-text-dim: #4a3820;
+  --color-text-muted: #7a6840;
+  --color-border: #ccc5b0;
+  --color-border-light: #bfb8a0;
+  --color-hebrew: #0a0600;
+  --color-translit: #1a4a7a;
+}

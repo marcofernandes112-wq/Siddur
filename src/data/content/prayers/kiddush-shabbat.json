@@ -1,0 +1,37 @@
+{
+  "id": "kiddush-shabbat",
+  "prayerNodeId": "kiddush-shabbat",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "יוֹם הַשִּׁשִּׁי וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל צְבָאָם",
+      "בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא פְּרִי הַגָּפֶן",
+      "בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם",
+      "אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְרָצָה בָנוּ",
+      "וְשַׁבַּת קָדְשׁוֹ בְּאַהֲבָה וּבְרָצוֹן הִנְחִילָנוּ"
+    ],
+    "translit": [
+      "Yom hashishi. Vayechulu hashamayim vehaárets vechol tsevaam.",
+      "Baruch Atá Adonai Elohênu Melech haolam, borê peri hagafen.",
+      "Baruch Atá Adonai Elohênu Melech haolam,",
+      "asher kideshanu bemitsvotav veratsa vanu,",
+      "veShabbat kadsho beahavá uveratson hinchilanu."
+    ],
+    "pt": [
+      "O sexto dia. E foram concluídos os céus e a terra e todo o seu exército.",
+      "Bendito és Tu, Eterno nosso Deus, Rei do universo, que crias o fruto da videira.",
+      "Bendito és Tu, Eterno nosso Deus, Rei do universo,",
+      "que nos santificaste com Teus mandamentos e em nós Te agradaste,",
+      "e Teu Shabat santo com amor e favor nos legaste."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "blessing"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "notes": "Kidush Raba — o grande Kidush de sexta à noite."
+  }
+}

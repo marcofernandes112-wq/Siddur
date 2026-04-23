@@ -1,0 +1,41 @@
+{
+  "id": "birkot-hatorah",
+  "prayerNodeId": "birkot-hatorah",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו, וְצִוָּנוּ לַעֲסוֹק בְּדִבְרֵי תוֹרָה.",
+      "וְהַעֲרֵב נָא יְיָ אֱלֹהֵינוּ אֶת דִּבְרֵי תוֹרָתְךָ בְּפִינוּ, וּבְפִי עַמְּךָ בֵּית יִשְׂרָאֵל, וְנִהְיֶה אֲנַחְנוּ וְצֶאֱצָאֵינוּ כֻּלָּנוּ יוֹדְעֵי שְׁמֶךָ וְלוֹמְדֵי תוֹרָתְךָ לִשְׁמָהּ. בָּרוּךְ אַתָּה יְיָ, הַמְלַמֵּד תּוֹרָה לְעַמּוֹ יִשְׂרָאֵל.",
+      "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר בָּחַר בָּנוּ מִכָּל הָעַמִּים, וְנָתַן לָנוּ אֶת תּוֹרָתוֹ. בָּרוּךְ אַתָּה יְיָ, נוֹתֵן הַתּוֹרָה.",
+      "יְבָרֶכְךָ יְיָ וְיִשְׁמְרֶךָ. יָאֵר יְיָ פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ. יִשָּׂא יְיָ פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם.",
+      "וְזֹאת הַתּוֹרָה אֲשֶׁר שָׂם מֹשֶׁה לִפְנֵי בְּנֵי יִשְׂרָאֵל, עַל פִּי יְיָ בְּיַד מֹשֶׁה."
+    ],
+    "translit": [
+      "Baruch Atá Adonai Elohênu mêlech haOlam, ashêr kideshanu bemitzvotav, vetzivanu la'asok bedivrei Torá.",
+      "Veha'arêv ná Adonai Elohênu et divrei Toratechá befinu, uvfi amchá beit Yisrael, veniheye anachnu vetzé'etza'ênu kulanu yod'ei shmêcha velomdei Toratechá lishmá. Baruch Atá Adonai, hamelamed Torá le'amo Yisrael.",
+      "Baruch Atá Adonai Elohênu mêlech haOlam, ashêr bachar banu mikol ha'amim, venatan lanu et Torato. Baruch Atá Adonai, notên haTorá.",
+      "Yevarechechá Adonai veyishmerêcha. Ya'êr Adonai panav elêcha vichunêka. Yisá Adonai panav elêcha veyasêm lechá shalom.",
+      "VeZot haTorá ashêr sam Moshe lifnei bnei Yisrael, al pi Adonai beyad Moshe."
+    ],
+    "pt": [
+      "Bendito sejas Tu, Eterno, nosso Deus, Rei do universo, que nos santificaste com os Teus mandamentos e nos ordenaste a ocuparmo-nos com as palavras da Torá.",
+      "E torna agradáveis, Eterno, nosso Deus, as palavras da Tua Torá na nossa boca, e na boca do Teu povo casa de Israel, e que sejamos nós e os nossos descendentes todos conhecedores do Teu Nome e estudiosos da Tua Torá por amor a ela. Bendito sejas Tu, Eterno, que ensina a Torá ao Seu povo Israel.",
+      "Bendito sejas Tu, Eterno, nosso Deus, Rei do universo, que nos escolheste de entre todos os povos, e nos deste a Sua Torá. Bendito sejas Tu, Eterno, que dá a Torá.",
+      "O Eterno te abençoe e te guarde. O Eterno faça brilhar o Seu rosto sobre ti e te seja gracioso. O Eterno eleve o Seu rosto para ti e te conceda paz.",
+      "E esta é a Torá que Moisés colocou diante dos filhos de Israel, por ordem do Eterno, pela mão de Moisés."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "baruch-sheamar",
+  "prayerNodeId": "baruch-sheamar",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "בָּרוּךְ שֶׁאָמַר וְהָיָה הָעוֹלָם, בָּרוּךְ הוּא.",
+      "בָּרוּךְ עוֹשֶׂה בְרֵאשִׁית, בָּרוּךְ עוֹשֶׂה מַעֲשֵׂה בְרֵאשִׁית.",
+      "בָּרוּךְ שֶׁגּוֹזֵר וּמְקַיֵּם, בָּרוּךְ שֶׁמְּרַחֵם עַל הָאָרֶץ, בָּרוּךְ שֶׁמְּרַחֵם עַל הַבְּרִיּוֹת, בָּרוּךְ שֶׁמְּשַׁלֵּם שָׂכָר טוֹב לִירֵאָיו.",
+      "בָּרוּךְ חֵי הָעוֹלָמִים, בָּרוּךְ פּוֹדֶה וּמַצִּיל, בָּרוּךְ שְׁמוֹ.",
+      "בָּרוּךְ אַתָּה יְהֹוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֵל אָב הָרַחֲמִים, הַמְהֻלָּל בְּפִי עַמּוֹ, מְשֻׁבָּח וּמְפֹאָר וּמִתְנַשֵּׂא עַל כָּל בְּרָכָה וְתִשְׁבָּחָה.",
+      "בָּרוּךְ אַתָּה יְהֹוָה, מֶלֶךְ מְהֻלָּל בַּתִּשְׁבָּחוֹת."
+    ],
+    "translit": [
+      "Baruch SheAmar veHayá haOlam, Baruch Hu.",
+      "Baruch Osé Bereshit, Baruch Osé Ma'asseh Bereshit.",
+      "Baruch SheGozer uMekayem, Baruch SheMerachem al haAretz, Baruch SheMerachem al haBeriyot, Baruch SheMeshallem Sachar Tov leYera'av.",
+      "Baruch Chai haOlamim, Baruch Podeh uMatzil, Baruch Shemo.",
+      "Baruch Atá Ado-nai, Elo-heinu Melech haOlam, El Av haRachamim, haMehullal beFi Amo, Meshubach uMefo'ar uMitnassé al kol Berachá veTishbachá.",
+      "Baruch Atá Ado-nai, Melech Mehullal baTishbachot."
+    ],
+    "pt": [
+      "Bendito seja Aquele que disse, e o mundo passou a existir; bendito seja Ele.",
+      "Bendito seja Aquele que faz a Criação; bendito seja Aquele que faz a obra da Criação.",
+      "Bendito seja Aquele que decreta e mantém; bendito seja Aquele que tem compaixão da terra; bendito seja Aquele que tem compaixão das criaturas; bendito seja Aquele que paga um bom salário aos que O temem.",
+      "Bendito seja o Vivente dos mundos; bendito seja Aquele que resgata e salva; bendito seja o Seu Nome.",
+      "Bendito sejas Tu, Adonai, nosso Deus, Rei do universo, Deus, Pai de misericórdias, louvado pela boca do Seu povo, elogiadíssimo e glorificado, e elevado acima de toda bênção e cântico.",
+      "Bendito sejas Tu, Adonai, Rei louvado nos louvores."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt",
+    "notes": "Nusach Sefarad/Arizal. Abre formalmente Pesukei Dezimrá. Algumas comunidades levantam-se para a dizer."
+  }
+}

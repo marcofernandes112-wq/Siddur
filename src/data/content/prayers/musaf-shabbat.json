@@ -1,0 +1,34 @@
+{
+  "id": "musaf-shabbat",
+  "prayerNodeId": "musaf-shabbat",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "תִּכַּנְתָּ שַׁבָּת רָצִיתָ קָרְבְּנוֹתֶיהָ",
+      "צִוִּיתָ פֵּרוּשֶׁיהָ עִם סִדּוּרֵי נְסָכֶיהָ",
+      "מְעַנְּגֶיהָ לְעוֹלָם כָּבוֹד יִנְחָלוּ",
+      "טוֹעֲמֶיהָ חַיִּים זָכוּ וְגַם הָאוֹהֲבִים דְּבָרֶיהָ גְּדֻלָּה בָּחָרוּ"
+    ],
+    "translit": [
+      "Tikanta Shabbat ratsita korbanotêha,",
+      "tsivita ferusheha im sidurê nesacheha.",
+      "Menagenêha leolam kavod yinchalu,",
+      "toameha chayyim zachu vegam haohavim dvarêha gedula bacharu."
+    ],
+    "pt": [
+      "Estabeleceste o Shabat, quiseste as suas ofertas,",
+      "ordenaste os seus detalhes com a ordem das suas libações.",
+      "Os que nele se deleitam herdarão glória para sempre,",
+      "os que o provam merecem vida, e também os que amam as suas palavras escolheram a grandeza."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "paragraph"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Musaf de Shabat — 7 bênçãos. Bênção central: Tikanta Shabbat. Texto completo a preencher."
+  }
+}

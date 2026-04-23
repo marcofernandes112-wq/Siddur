@@ -1,0 +1,32 @@
+{
+  "id": "asher-yatzar",
+  "prayerNodeId": "asher-yatzar",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "בָּרוּךְ אַתָּה יְהֹוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר יָצַר אֶת הָאָדָם בְּחָכְמָה, וּבָרָא בוֹ נְקָבִים נְקָבִים חֲלוּלִים חֲלוּלִים.",
+      "גָּלוּי וְיָדוּעַ לִפְנֵי כִסֵּא כְבוֹדֶךָ, שֶׁאִם יִפָּתֵחַ אֶחָד מֵהֶם אוֹ יִסָּתֵם אֶחָד מֵהֶם — אִי אֶפְשַׁר לְהִתְקַיֵּם וְלַעֲמוֹד לְפָנֶיךָ.",
+      "בָּרוּךְ אַתָּה יְהֹוָה, רוֹפֵא כָל בָּשָׂר וּמַפְלִיא לַעֲשׂוֹת."
+    ],
+    "translit": [
+      "Baruch Atá Ado-nai, Elo-heinu Melech haOlam, asher yatzar et haAdam bechochma, uvará vo nekavim nekavim chalulim chalulim.",
+      "Galui veyadua lifnei chissé chevodecha, she'im yipatéach echad mêhem, o yissatêm echad mêhem — i efshar lehitkayem vela'amod lefanêcha.",
+      "Baruch Atá Ado-nai, rofé chol bassar umafli la'asot."
+    ],
+    "pt": [
+      "Bendito sejas Tu, Adonai, nosso Deus, Rei do universo, que criaste o ser humano com sabedoria, e criaste nele orifícios orifícios e cavidades cavidades.",
+      "É manifesto e conhecido perante o Trono da Tua glória que, se um deles se abrisse ou um deles se fechasse — seria impossível existir e permanecer diante de Ti.",
+      "Bendito sejas Tu, Adonai, que curas toda a carne e ages de modo maravilhoso."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "blessing"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt",
+    "notes": "Diz-se após usar a casa de banho, e também como parte das Birkot Hashachar da manhã. Texto canónico standard — não documentado com kavaná específica no Sidur.docx."
+  }
+}

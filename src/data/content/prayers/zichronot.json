@@ -1,0 +1,31 @@
+{
+  "id": "zichronot",
+  "prayerNodeId": "zichronot",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "אַתָּה זוֹכֵר מַעֲשֵׂה עוֹלָם וּפוֹקֵד כָּל יְצוּרֵי קֶדֶם",
+      "זִכְרוֹן כָּל הַמַּעֲשֶׂה לְפָנֶיךָ בָּא",
+      "כִּי זֵכֶר כָּל הַיְצוּר לְפָנֶיךָ בָּא"
+    ],
+    "translit": [
+      "Atá zocher maasê olam ufoked kol yetsuré kedem.",
+      "Zichron kol hamaaseh lefanecha bá.",
+      "Ki zecher kol hayetsur lefanecha bá."
+    ],
+    "pt": [
+      "Tu te recordas das obras do mundo e visitas todas as criaturas primordiais.",
+      "A memória de todas as obras vem diante de Ti.",
+      "Pois a memória de toda criatura vem diante de Ti."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "draft",
+    "notes": "Zichronot — 10 versículos sobre memória e aliança. Parte da Amidá de Musaf de Rosh Hashaná."
+  }
+}

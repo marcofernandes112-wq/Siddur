@@ -1,0 +1,38 @@
+{
+  "id": "ahavat-olam",
+  "prayerNodeId": "ahavat-olam",
+  "languageOrder": [
+    "he",
+    "translit",
+    "pt"
+  ],
+  "text": {
+    "he": [
+      "אַהֲבַת עוֹלָם בֵּית יִשְׂרָאֵל עַמְּךָ אָהַבְתָּ. תּוֹרָה וּמִצְווֹת, חֻקִּים וּמִשְׁפָּטִים, אוֹתָנוּ לִמַּדְתָּ.",
+      "עַל כֵּן יְיָ אֱלֹהֵינוּ, בְּשָׁכְבֵנוּ וּבְקוּמֵנוּ, נָשִׂיחַ בְּחֻקֶּיךָ, וְנִשְׂמַח בְּדִבְרֵי תוֹרָתְךָ וּבְמִצְוֹתֶיךָ לְעוֹלָם וָעֶד.",
+      "כִּי הֵם חַיֵּינוּ וְאֹרֶךְ יָמֵינוּ, וּבָהֶם נֶהְגֶּה יוֹמָם וָלָיְלָה. וְאַהֲבָתְךָ אַל תָּסִיר מִמֶּנּוּ לְעוֹלָמִים.",
+      "בָּרוּךְ אַתָּה יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל."
+    ],
+    "translit": [
+      "Ahavat olam beit Yisrael amchá ahavtá. Torá umitzvot, chukim umishpatim, otanu limadtá.",
+      "Al kên Adonai Elohênu, beshochvênu uvekumênu, nasíach bechukkêcha, venismach bedivrei Toratêcha uvmitzvotêcha le'olam va'ed.",
+      "Ki hem chayênu ve'orech yamênu, uvahêm nehgê yomam valayla. Ve'ahavatchá al tasir mimênu le'olamim.",
+      "Baruch Atá Adonai, ohêv amo Yisrael."
+    ],
+    "pt": [
+      "Com amor eterno amaste a casa de Israel, Teu povo. Torá e mandamentos, leis e julgamentos, a nós ensinaste.",
+      "Por isso, Eterno, nosso Deus, ao deitarmo-nos e ao levantarmo-nos, falaremos dos Teus decretos, e nos alegraremos com as palavras da Tua Torá e com os Teus mandamentos, para sempre.",
+      "Pois eles são a nossa vida e o prolongamento dos nossos dias, e neles meditaremos de dia e de noite. E o Teu amor não retires de nós jamais.",
+      "Bendito sejas Tu, Eterno, que amas o Seu povo Israel."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt"
+  }
+}
