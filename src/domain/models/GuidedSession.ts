@@ -5,6 +5,7 @@ export const GuidedFlowTypeSchema = z.enum([
   'mincha',
   'maariv',
   'bedtime',
+  'shabbat_bayit',
   'shabbat_maariv',
   'shabbat_shacharit',
   'shabbat_mincha',

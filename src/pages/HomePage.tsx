@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { ModuleTabs } from '../components/common/ModuleTabs'
+import { ShabbatBayitModal } from '../components/home/ShabbatBayitModal'
 import { useServiceDetector } from '../domain/services/useServiceDetector'
 import type { GuidedModule } from '../domain/models/GuidedSession'
 
@@ -36,8 +37,10 @@ const MACHZOR_FLOWS = [
 export function HomePage() {
   const suggestion = useServiceDetector()
   const [activeModule, setActiveModule] = useState<GuidedModule>(suggestion.module)
+  const [showBayitModal, setShowBayitModal] = useState(false)
 
   return (
+    <>
     <div className="home-page">
       <div className="title-page">
         <div className="tp-hebrew">סִדּוּר</div>
@@ -88,7 +91,17 @@ export function HomePage() {
             {suggestion.module === 'shabbat' && (
               <p className="tp-suggested-label">✦ Sugerido agora: {suggestion.label}</p>
             )}
-            <div className="tp-grid">
+
+            <button
+              className="tp-card tp-card--shabbat tp-card--bayit"
+              onClick={() => setShowBayitModal(true)}
+            >
+              <span className="tp-icon">🕯️</span>
+              <span className="tp-label">Recebimento de Shabat em Casa</span>
+              <span className="tp-card-desc">Velas · Shalom Aleichem · Bênção dos filhos · Kidush · HaMotzi</span>
+            </button>
+
+            <div className="tp-grid" style={{ marginTop: 10 }}>
               {SHABBAT_FLOWS.map(({ label, flow, icon, desc }) => (
                 <Link
                   key={flow}
@@ -125,5 +138,8 @@ export function HomePage() {
         )}
       </div>
     </div>
+
+    {showBayitModal && <ShabbatBayitModal onClose={() => setShowBayitModal(false)} />}
+    </>
   )
 }

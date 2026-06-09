@@ -2308,6 +2308,7 @@
         "hadlakat-nerot",
         "shalom-aleichem",
         "eshet-chayil",
+        "birkat-habanim",
         "kiddush-shabbat-bayit",
         "hamotzi-shabbat"
       ],
@@ -2397,6 +2398,36 @@
       ],
       "childrenIds": [],
       "contentId": "eshet-chayil",
+      "badge": "only",
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ],
+        "requiresMinyan": false
+      }
+    },
+    {
+      "id": "birkat-habanim",
+      "slug": "birkat-habanim",
+      "parentId": "kabbalat-shabbat-bayit",
+      "order": 4,
+      "category": "shabbat_bayit",
+      "titles": {
+        "he": "בִּרְכַּת הַבָּנִים",
+        "en": "Blessing of the Children",
+        "pt": "Bênção dos Filhos"
+      },
+      "tags": [
+        "bênção",
+        "filhos",
+        "família",
+        "shabat",
+        "birkat kohanim"
+      ],
+      "childrenIds": [],
+      "contentId": "birkat-habanim",
       "badge": "only",
       "availability": {
         "modes": [

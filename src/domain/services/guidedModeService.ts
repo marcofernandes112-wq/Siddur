@@ -11,6 +11,7 @@ const GUIDED_FLOWS: Record<GuidedFlowType, string> = {
   mincha: 'weekday_mincha',
   maariv: 'weekday_maariv',
   bedtime: 'bedtime_shema',
+  shabbat_bayit: 'kabbalat-shabbat-bayit',
   shabbat_maariv: 'shabbat_maariv',
   shabbat_shacharit: 'shabbat_shacharit',
   shabbat_mincha: 'shabbat_mincha',
@@ -22,7 +23,7 @@ const GUIDED_FLOWS: Record<GuidedFlowType, string> = {
 }
 
 export function resolveModule(flowType: GuidedFlowType): GuidedModule {
-  if (flowType.startsWith('shabbat_')) return 'shabbat'
+  if (flowType === 'shabbat_bayit' || flowType.startsWith('shabbat_')) return 'shabbat'
   if (
     flowType === 'rosh_hashana' ||
     flowType.startsWith('yom_kippur_') ||

@@ -1,0 +1,44 @@
+{
+  "id": "birkat-habanim",
+  "prayerNodeId": "birkat-habanim",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "לְבָנִים:",
+      "יְשִׂמְךָ אֱלֹהִים כְּאֶפְרַיִם וְכִמְנַשֶּׁה.",
+      "לְבָנוֹת:",
+      "יְשִׂמֵךְ אֱלֹהִים כְּשָׂרָה, רִבְקָה, רָחֵל וְלֵאָה.",
+      "יְבָרֶכְךָ יְיָ וְיִשְׁמְרֶךָ.",
+      "יָאֵר יְיָ פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ.",
+      "יִשָּׂא יְיָ פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם."
+    ],
+    "translit": [
+      "Levanim:",
+      "Yesimchá Elohim ke'Efrayim vechimNashê.",
+      "Levanot:",
+      "Yesimêch Elohim keSará, Rivká, Rachel veLêa.",
+      "Yevarechechá Adonai veyishmerechá.",
+      "Ya'êr Adonai panav elêcha vichunêka.",
+      "Yisá Adonai panav elêcha veyasêm lechá shalom."
+    ],
+    "pt": [
+      "Para os filhos:",
+      "Que Deus te faça como Efraim e Menashe.",
+      "Para as filhas:",
+      "Que Deus te faça como Sara, Rebeca, Raquel e Leia.",
+      "Que o Eterno te abençoe e te guarde.",
+      "Que o Eterno faça resplandecer o Seu rosto sobre ti e te seja gracioso.",
+      "Que o Eterno volte o Seu rosto para ti e te conceda paz."
+    ]
+  },
+  "display": {
+    "direction": "mixed",
+    "lineBreakStyle": "verse"
+  },
+  "metadata": {
+    "sourceType": "original",
+    "status": "reviewed",
+    "transliterationScheme": "functional-pt",
+    "notes": "Bênção dos filhos na noite de Shabat. Linhas 1–2: filhos (Efraim e Menashe). Linhas 3–4: filhas (as quatro matriarcas). Linhas 5–7: Birkat Kohanim (Nm 6:24–26), recitada a todos."
+  }
+}

@@ -897,3 +897,166 @@
   margin-bottom: 6px;
   font-weight: 600;
 }
+
+/* ── SHABBAT BAYIT CARD (homepage) ── */
+.tp-card--bayit {
+  width: 100%;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 14px;
+  padding: 18px 20px;
+  text-align: left;
+  border: 1px solid var(--module-shabbat, #7F77DD);
+  border-radius: 10px;
+  cursor: pointer;
+  background: var(--color-bg-card);
+}
+.tp-card--bayit:hover {
+  background: var(--module-shabbat-dim, rgba(127,119,221,0.12));
+  border-color: var(--module-shabbat, #7F77DD);
+}
+.tp-card--bayit .tp-icon { font-size: 1.8rem; flex-shrink: 0; }
+.tp-card--bayit .tp-label {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-gold);
+  display: block;
+}
+.tp-card--bayit .tp-card-desc {
+  font-size: 0.75rem;
+  color: var(--color-text-dim);
+  display: block;
+  margin-top: 2px;
+}
+
+/* ── SHABBAT BAYIT MODAL ── */
+.sbm-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  z-index: 1000;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0;
+  animation: sbm-fade-in 0.18s ease;
+}
+@keyframes sbm-fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+.sbm-panel {
+  background: var(--color-bg-sidebar);
+  border: 1px solid var(--color-border);
+  border-radius: 18px 18px 0 0;
+  width: 100%;
+  max-width: 540px;
+  max-height: 85vh;
+  overflow-y: auto;
+  padding: 24px 24px 32px;
+  animation: sbm-slide-up 0.22s ease;
+}
+@keyframes sbm-slide-up {
+  from { transform: translateY(40px); opacity: 0; }
+  to   { transform: translateY(0);    opacity: 1; }
+}
+@media (min-width: 600px) {
+  .sbm-backdrop { align-items: center; padding: 16px; }
+  .sbm-panel { border-radius: 14px; }
+}
+.sbm-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+.sbm-title {
+  font-size: 1.15rem;
+  font-family: var(--font-body);
+  color: var(--color-gold);
+  margin: 0 0 4px;
+}
+.sbm-he {
+  font-family: var(--font-hebrew);
+  font-size: 1.1rem;
+  color: var(--color-text-dim);
+  direction: rtl;
+  margin: 0;
+}
+.sbm-close {
+  background: none;
+  border: none;
+  color: var(--color-text-dim);
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 6px 8px;
+  border-radius: 6px;
+  line-height: 1;
+  flex-shrink: 0;
+}
+.sbm-close:hover { color: var(--color-gold); }
+.sbm-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.sbm-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 16px;
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: var(--transition-fast);
+  gap: 12px;
+}
+.sbm-item:hover {
+  border-color: var(--color-gold);
+  background: var(--color-gold-dim);
+}
+.sbm-item-pt {
+  font-size: 0.9rem;
+  color: var(--color-text);
+}
+.sbm-item-he {
+  font-family: var(--font-hebrew);
+  font-size: 1rem;
+  color: var(--color-text-dim);
+  direction: rtl;
+  flex-shrink: 0;
+}
+.sbm-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.sbm-btn-guided {
+  display: block;
+  text-align: center;
+  padding: 13px 16px;
+  background: var(--module-shabbat, #7F77DD);
+  color: #fff;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: var(--transition-fast);
+}
+.sbm-btn-guided:hover { opacity: 0.88; }
+.sbm-btn-all {
+  display: block;
+  text-align: center;
+  padding: 10px 16px;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  text-decoration: none;
+  color: var(--color-text-dim);
+  font-size: 0.82rem;
+  transition: var(--transition-fast);
+}
+.sbm-btn-all:hover { color: var(--color-gold); border-color: var(--color-gold); }
