@@ -1221,7 +1221,6 @@
         "requiresMinyan": false
       }
     },
-
     {
       "id": "shabbat",
       "slug": "shabbat",
@@ -1233,23 +1232,42 @@
         "en": "Shabbat",
         "pt": "Shabat"
       },
-      "tags": ["shabat", "descanso", "santidade"],
-      "childrenIds": ["shabbat_maariv", "shabbat_shacharit", "shabbat_mincha"],
-      "availability": { "modes": ["full", "short", "guided"] }
+      "tags": [
+        "shabat",
+        "descanso",
+        "santidade"
+      ],
+      "childrenIds": [
+        "kabbalat-shabbat-bayit",
+        "shabbat_maariv",
+        "shabbat_shacharit",
+        "shabbat_mincha"
+      ],
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
-
     {
       "id": "shabbat_maariv",
       "slug": "shabbat-maariv",
       "parentId": "shabbat",
-      "order": 1,
+      "order": 2,
       "category": "shabbat_maariv",
       "titles": {
         "he": "מַעֲרִיב שַׁבָּת",
         "en": "Shabbat Maariv",
         "pt": "Maariv de Shabat"
       },
-      "tags": ["shabat", "sexta-feira", "noite", "maariv"],
+      "tags": [
+        "shabat",
+        "sexta-feira",
+        "noite",
+        "maariv"
+      ],
       "childrenIds": [
         "kabalat-shabat",
         "shabbat-maariv-shema",
@@ -1258,7 +1276,13 @@
         "kiddush-shabbat",
         "aleinu-shabbat-maariv"
       ],
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "kabalat-shabat",
@@ -1271,11 +1295,22 @@
         "en": "Kabbalat Shabbat",
         "pt": "Kabalat Shabat"
       },
-      "tags": ["kabalat shabat", "lecha dodi", "salmos", "sexta-feira"],
+      "tags": [
+        "kabalat shabat",
+        "lecha dodi",
+        "salmos",
+        "sexta-feira"
+      ],
       "childrenIds": [],
       "contentId": "kabalat-shabat",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "shabbat-maariv-shema",
@@ -1288,11 +1323,21 @@
         "en": "Shema and Blessings",
         "pt": "Shemá e Bênçãos — Maariv"
       },
-      "tags": ["shema", "maariv aravim", "ahavat olam"],
+      "tags": [
+        "shema",
+        "maariv aravim",
+        "ahavat olam"
+      ],
       "childrenIds": [],
       "contentId": "shema-blessings-maariv",
       "badge": "shared",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "shabbat-amida-maariv",
@@ -1305,11 +1350,22 @@
         "en": "Amida — Shabbat Maariv",
         "pt": "Amidá de Shabat — Maariv"
       },
-      "tags": ["amida", "shabat", "7 bênçãos", "magen avot"],
+      "tags": [
+        "amida",
+        "shabat",
+        "7 bênçãos",
+        "magen avot"
+      ],
       "childrenIds": [],
       "contentId": "amida-shabbat-maariv",
       "badge": "extra",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "vayechulu",
@@ -1322,11 +1378,21 @@
         "en": "Vayechulu",
         "pt": "Vayechulu"
       },
-      "tags": ["vayechulu", "criação", "em pé"],
+      "tags": [
+        "vayechulu",
+        "criação",
+        "em pé"
+      ],
       "childrenIds": [],
       "contentId": "vayechulu",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "kiddush-shabbat",
@@ -1339,11 +1405,21 @@
         "en": "Kiddush",
         "pt": "Kidush de Shabat"
       },
-      "tags": ["kiddush", "vinho", "santificação"],
+      "tags": [
+        "kiddush",
+        "vinho",
+        "santificação"
+      ],
       "childrenIds": [],
       "contentId": "kiddush-shabbat",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "aleinu-shabbat-maariv",
@@ -1356,25 +1432,37 @@
         "en": "Aleinu",
         "pt": "Aleinu"
       },
-      "tags": ["aleinu", "conclusão"],
+      "tags": [
+        "aleinu",
+        "conclusão"
+      ],
       "childrenIds": [],
       "contentId": "aleinu",
       "badge": "shared",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
-
     {
       "id": "shabbat_shacharit",
       "slug": "shabbat-shacharit",
       "parentId": "shabbat",
-      "order": 2,
+      "order": 3,
       "category": "shabbat_shacharit",
       "titles": {
         "he": "שַׁחֲרִית שַׁבָּת",
         "en": "Shabbat Shacharit",
         "pt": "Shacharit de Shabat"
       },
-      "tags": ["shabat", "manhã", "shacharit"],
+      "tags": [
+        "shabat",
+        "manhã",
+        "shacharit"
+      ],
       "childrenIds": [
         "birkot-hashachar-shabbat",
         "pesukei-dezimra-shabbat",
@@ -1384,7 +1472,13 @@
         "musaf-shabbat",
         "aleinu-musaf"
       ],
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "birkot-hashachar-shabbat",
@@ -1397,11 +1491,21 @@
         "en": "Morning Blessings",
         "pt": "Birkot HaShachar"
       },
-      "tags": ["birkot hashachar", "manhã", "bênçãos"],
+      "tags": [
+        "birkot hashachar",
+        "manhã",
+        "bênçãos"
+      ],
       "childrenIds": [],
       "contentId": "birkot-hashachar",
       "badge": "shared",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "pesukei-dezimra-shabbat",
@@ -1414,11 +1518,22 @@
         "en": "Pesukei DeZimra — Shabbat",
         "pt": "Psukei DeZimra — Shabat"
       },
-      "tags": ["pesukei dezimra", "nishmat", "az yashir", "shabat"],
+      "tags": [
+        "pesukei dezimra",
+        "nishmat",
+        "az yashir",
+        "shabat"
+      ],
       "childrenIds": [],
       "contentId": "pesukei-dezimra-shabbat",
       "badge": "extra",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "shema-shabbat-shacharit",
@@ -1431,11 +1546,21 @@
         "en": "Shema and Blessings",
         "pt": "Shemá e Bênçãos"
       },
-      "tags": ["shema", "yotzer or", "ahavat olam"],
+      "tags": [
+        "shema",
+        "yotzer or",
+        "ahavat olam"
+      ],
       "childrenIds": [],
       "contentId": "shema-blessings-shacharit",
       "badge": "shared",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "shabbat-amida-shacharit",
@@ -1448,11 +1573,23 @@
         "en": "Amida — Shabbat Shacharit",
         "pt": "Amidá de Shabat — Shacharit"
       },
-      "tags": ["amida", "shabat", "7 bênçãos", "kedushah", "keter"],
+      "tags": [
+        "amida",
+        "shabat",
+        "7 bênçãos",
+        "kedushah",
+        "keter"
+      ],
       "childrenIds": [],
       "contentId": "amida-shabbat-shacharit",
       "badge": "extra",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "leitura-torah-shabbat",
@@ -1465,11 +1602,22 @@
         "en": "Torah Reading",
         "pt": "Leitura da Torá — 7 aliot + Haftará"
       },
-      "tags": ["torah", "leitura", "haftara", "shabat"],
+      "tags": [
+        "torah",
+        "leitura",
+        "haftara",
+        "shabat"
+      ],
       "childrenIds": [],
       "contentId": "leitura-torah-shabbat",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "musaf-shabbat",
@@ -1482,11 +1630,21 @@
         "en": "Musaf Shabbat",
         "pt": "Musaf de Shabat"
       },
-      "tags": ["musaf", "shabat", "tikanta shabbat"],
+      "tags": [
+        "musaf",
+        "shabat",
+        "tikanta shabbat"
+      ],
       "childrenIds": [],
       "contentId": "musaf-shabbat",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "aleinu-musaf",
@@ -1499,32 +1657,51 @@
         "en": "Aleinu",
         "pt": "Aleinu"
       },
-      "tags": ["aleinu", "conclusão"],
+      "tags": [
+        "aleinu",
+        "conclusão"
+      ],
       "childrenIds": [],
       "contentId": "aleinu",
       "badge": "shared",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
-
     {
       "id": "shabbat_mincha",
       "slug": "shabbat-mincha",
       "parentId": "shabbat",
-      "order": 3,
+      "order": 4,
       "category": "shabbat_mincha",
       "titles": {
         "he": "מִנְחָה שַׁבָּת",
         "en": "Shabbat Mincha",
         "pt": "Minchá de Shabat"
       },
-      "tags": ["shabat", "tarde", "mincha", "havdala"],
+      "tags": [
+        "shabat",
+        "tarde",
+        "mincha",
+        "havdala"
+      ],
       "childrenIds": [
         "ashrei-uva-letzion",
         "leitura-torah-mincha-shabbat",
         "shabbat-amida-mincha",
         "havdala"
       ],
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "ashrei-uva-letzion",
@@ -1537,11 +1714,21 @@
         "en": "Ashrei and Uva LeTzion",
         "pt": "Ashrei e Uvá LeTzion"
       },
-      "tags": ["ashrei", "uva letzion", "shabat mincha"],
+      "tags": [
+        "ashrei",
+        "uva letzion",
+        "shabat mincha"
+      ],
       "childrenIds": [],
       "contentId": "uva-letzion",
       "badge": "extra",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "leitura-torah-mincha-shabbat",
@@ -1554,11 +1741,22 @@
         "en": "Torah Reading",
         "pt": "Leitura da Torá — 3 aliot"
       },
-      "tags": ["torah", "leitura", "mincha", "shabat"],
+      "tags": [
+        "torah",
+        "leitura",
+        "mincha",
+        "shabat"
+      ],
       "childrenIds": [],
       "contentId": "leitura-torah-mincha-shabbat",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "shabbat-amida-mincha",
@@ -1571,11 +1769,21 @@
         "en": "Amida — Shabbat Mincha",
         "pt": "Amidá de Shabat — Minchá"
       },
-      "tags": ["amida", "shabat", "atah echad"],
+      "tags": [
+        "amida",
+        "shabat",
+        "atah echad"
+      ],
       "childrenIds": [],
       "contentId": "amida-shabbat-mincha",
       "badge": "extra",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "havdala",
@@ -1588,13 +1796,23 @@
         "en": "Havdala",
         "pt": "Havdalá"
       },
-      "tags": ["havdala", "fim de shabat", "vinho", "besamim"],
+      "tags": [
+        "havdala",
+        "fim de shabat",
+        "vinho",
+        "besamim"
+      ],
       "childrenIds": [],
       "contentId": "havdala",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
-
     {
       "id": "machzor",
       "slug": "machzor",
@@ -1606,11 +1824,26 @@
         "en": "Machzor",
         "pt": "Machzor"
       },
-      "tags": ["rosh hashana", "yom kippur", "dias temíveis"],
-      "childrenIds": ["rosh_hashana", "yom_kippur_shacharit", "yom_kippur_musaf", "yom_kippur_mincha", "neilah"],
-      "availability": { "modes": ["full", "short", "guided"] }
+      "tags": [
+        "rosh hashana",
+        "yom kippur",
+        "dias temíveis"
+      ],
+      "childrenIds": [
+        "rosh_hashana",
+        "yom_kippur_shacharit",
+        "yom_kippur_musaf",
+        "yom_kippur_mincha",
+        "neilah"
+      ],
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
-
     {
       "id": "rosh_hashana",
       "slug": "rosh-hashana",
@@ -1622,7 +1855,11 @@
         "en": "Rosh Hashana",
         "pt": "Rosh Hashaná"
       },
-      "tags": ["rosh hashana", "ano novo", "shofar"],
+      "tags": [
+        "rosh hashana",
+        "ano novo",
+        "shofar"
+      ],
       "childrenIds": [
         "unetaneh-tokef",
         "malchuyot",
@@ -1631,7 +1868,13 @@
         "tashlich",
         "avinu-malkeinu"
       ],
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "unetaneh-tokef",
@@ -1644,11 +1887,21 @@
         "en": "Unetaneh Tokef",
         "pt": "Unetanê Tokef"
       },
-      "tags": ["unetaneh tokef", "juízo", "quem viverá"],
+      "tags": [
+        "unetaneh tokef",
+        "juízo",
+        "quem viverá"
+      ],
       "childrenIds": [],
       "contentId": "unetaneh-tokef",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "malchuyot",
@@ -1661,11 +1914,21 @@
         "en": "Malchuyot",
         "pt": "Malchuyot"
       },
-      "tags": ["malchuyot", "soberania", "10 versículos"],
+      "tags": [
+        "malchuyot",
+        "soberania",
+        "10 versículos"
+      ],
       "childrenIds": [],
       "contentId": "malchuyot",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "zichronot",
@@ -1678,11 +1941,21 @@
         "en": "Zichronot",
         "pt": "Zichronot"
       },
-      "tags": ["zichronot", "memória", "aliança"],
+      "tags": [
+        "zichronot",
+        "memória",
+        "aliança"
+      ],
       "childrenIds": [],
       "contentId": "zichronot",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "shofarot",
@@ -1695,11 +1968,21 @@
         "en": "Shofarot",
         "pt": "Shofarot"
       },
-      "tags": ["shofar", "100 toques", "shofarot"],
+      "tags": [
+        "shofar",
+        "100 toques",
+        "shofarot"
+      ],
       "childrenIds": [],
       "contentId": "shofarot",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "tashlich",
@@ -1712,11 +1995,22 @@
         "en": "Tashlich",
         "pt": "Tashlich"
       },
-      "tags": ["tashlich", "água", "pecados", "tarde"],
+      "tags": [
+        "tashlich",
+        "água",
+        "pecados",
+        "tarde"
+      ],
       "childrenIds": [],
       "contentId": "tashlich",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "avinu-malkeinu",
@@ -1729,13 +2023,22 @@
         "en": "Avinu Malkeinu",
         "pt": "Avinu Malkeinu"
       },
-      "tags": ["avinu malkeinu", "súplica", "perdão"],
+      "tags": [
+        "avinu malkeinu",
+        "súplica",
+        "perdão"
+      ],
       "childrenIds": [],
       "contentId": "avinu-malkeinu",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
-
     {
       "id": "yom_kippur_shacharit",
       "slug": "yom-kippur-shacharit",
@@ -1747,9 +2050,23 @@
         "en": "Yom Kippur Shacharit",
         "pt": "Shacharit — Yom Kipur"
       },
-      "tags": ["yom kippur", "vidui", "al chet", "manhã"],
-      "childrenIds": ["kol-nidrei", "yom-kippur-vidui"],
-      "availability": { "modes": ["full", "short", "guided"] }
+      "tags": [
+        "yom kippur",
+        "vidui",
+        "al chet",
+        "manhã"
+      ],
+      "childrenIds": [
+        "kol-nidrei",
+        "yom-kippur-vidui"
+      ],
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "kol-nidrei",
@@ -1762,11 +2079,21 @@
         "en": "Kol Nidrei",
         "pt": "Kol Nidrei"
       },
-      "tags": ["kol nidrei", "votos", "véspera"],
+      "tags": [
+        "kol nidrei",
+        "votos",
+        "véspera"
+      ],
       "childrenIds": [],
       "contentId": "kol-nidrei",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "yom-kippur-vidui",
@@ -1779,13 +2106,23 @@
         "en": "Vidui — Ashamnu and Al Chet",
         "pt": "Vidui — Ashamnu e Al Chet"
       },
-      "tags": ["vidui", "confissão", "ashamnu", "al chet"],
+      "tags": [
+        "vidui",
+        "confissão",
+        "ashamnu",
+        "al chet"
+      ],
       "childrenIds": [],
       "contentId": "yom-kippur-vidui",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
-
     {
       "id": "yom_kippur_musaf",
       "slug": "yom-kippur-musaf",
@@ -1797,9 +2134,21 @@
         "en": "Yom Kippur Musaf",
         "pt": "Musaf — Yom Kipur"
       },
-      "tags": ["musaf", "yom kippur", "avodah"],
-      "childrenIds": ["yom-kippur-avodah"],
-      "availability": { "modes": ["full", "short", "guided"] }
+      "tags": [
+        "musaf",
+        "yom kippur",
+        "avodah"
+      ],
+      "childrenIds": [
+        "yom-kippur-avodah"
+      ],
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "yom-kippur-avodah",
@@ -1812,13 +2161,22 @@
         "en": "Avodah",
         "pt": "Avodá — Serviço do Sumo Sacerdote"
       },
-      "tags": ["avodah", "sumo sacerdote", "templo"],
+      "tags": [
+        "avodah",
+        "sumo sacerdote",
+        "templo"
+      ],
       "childrenIds": [],
       "contentId": "yom-kippur-avodah",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
-
     {
       "id": "yom_kippur_mincha",
       "slug": "yom-kippur-mincha",
@@ -1830,9 +2188,21 @@
         "en": "Yom Kippur Mincha",
         "pt": "Minchá — Yom Kipur"
       },
-      "tags": ["mincha", "yom kippur", "jonas"],
-      "childrenIds": ["leitura-jonas"],
-      "availability": { "modes": ["full", "short", "guided"] }
+      "tags": [
+        "mincha",
+        "yom kippur",
+        "jonas"
+      ],
+      "childrenIds": [
+        "leitura-jonas"
+      ],
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "leitura-jonas",
@@ -1845,13 +2215,22 @@
         "en": "Book of Jonah",
         "pt": "Livro de Jonas"
       },
-      "tags": ["jonas", "haftara", "teshuvá"],
+      "tags": [
+        "jonas",
+        "haftara",
+        "teshuvá"
+      ],
       "childrenIds": [],
       "contentId": "leitura-jonas",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
-
     {
       "id": "neilah",
       "slug": "neilah",
@@ -1863,9 +2242,21 @@
         "en": "Neilah",
         "pt": "Neilá"
       },
-      "tags": ["neilah", "fecho das portas", "leshana haba"],
-      "childrenIds": ["neilah-amida"],
-      "availability": { "modes": ["full", "short", "guided"] }
+      "tags": [
+        "neilah",
+        "fecho das portas",
+        "leshana haba"
+      ],
+      "childrenIds": [
+        "neilah-amida"
+      ],
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
     },
     {
       "id": "neilah-amida",
@@ -1878,11 +2269,202 @@
         "en": "Neilah Amida",
         "pt": "Amidá de Neilá"
       },
-      "tags": ["neilah", "amida", "fecho", "leshana haba birushalayim"],
+      "tags": [
+        "neilah",
+        "amida",
+        "fecho",
+        "leshana haba birushalayim"
+      ],
       "childrenIds": [],
       "contentId": "neilah-amida",
       "badge": "only",
-      "availability": { "modes": ["full", "short", "guided"] }
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
+    },
+    {
+      "id": "kabbalat-shabbat-bayit",
+      "slug": "kabbalat-shabbat-bayit",
+      "parentId": "shabbat",
+      "order": 0,
+      "category": "shabbat_bayit",
+      "titles": {
+        "he": "קַבָּלַת שַׁבָּת בַּבַּיִת",
+        "en": "Shabbat Home Reception",
+        "pt": "Recebimento de Shabat em Casa"
+      },
+      "tags": [
+        "shabat",
+        "casa",
+        "velas",
+        "kidush",
+        "refeição"
+      ],
+      "childrenIds": [
+        "hadlakat-nerot",
+        "shalom-aleichem",
+        "eshet-chayil",
+        "kiddush-shabbat-bayit",
+        "hamotzi-shabbat"
+      ],
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ]
+      }
+    },
+    {
+      "id": "hadlakat-nerot",
+      "slug": "hadlakat-nerot",
+      "parentId": "kabbalat-shabbat-bayit",
+      "order": 1,
+      "category": "shabbat_bayit",
+      "titles": {
+        "he": "הַדְלָקַת נֵרוֹת",
+        "en": "Candle Lighting",
+        "pt": "Acendimento das Velas"
+      },
+      "tags": [
+        "velas",
+        "shabat",
+        "mulher",
+        "bênção"
+      ],
+      "childrenIds": [],
+      "contentId": "hadlakat-nerot",
+      "badge": "only",
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ],
+        "requiresMinyan": false
+      }
+    },
+    {
+      "id": "shalom-aleichem",
+      "slug": "shalom-aleichem",
+      "parentId": "kabbalat-shabbat-bayit",
+      "order": 2,
+      "category": "shabbat_bayit",
+      "titles": {
+        "he": "שָׁלוֹם עֲלֵיכֶם",
+        "en": "Shalom Aleichem",
+        "pt": "Shalom Aleichem — Boas-vindas aos Anjos"
+      },
+      "tags": [
+        "anjos",
+        "shabat",
+        "cântico",
+        "casa"
+      ],
+      "childrenIds": [],
+      "contentId": "shalom-aleichem",
+      "badge": "only",
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ],
+        "requiresMinyan": false
+      }
+    },
+    {
+      "id": "eshet-chayil",
+      "slug": "eshet-chayil",
+      "parentId": "kabbalat-shabbat-bayit",
+      "order": 3,
+      "category": "shabbat_bayit",
+      "titles": {
+        "he": "אֵשֶׁת חַיִל",
+        "en": "Eshet Chayil",
+        "pt": "Eshet Chayil — Mulher Virtuosa"
+      },
+      "tags": [
+        "eshet chayil",
+        "mishlei",
+        "provérbios",
+        "esposa",
+        "shabat"
+      ],
+      "childrenIds": [],
+      "contentId": "eshet-chayil",
+      "badge": "only",
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ],
+        "requiresMinyan": false
+      }
+    },
+    {
+      "id": "kiddush-shabbat-bayit",
+      "slug": "kiddush-shabbat-bayit",
+      "parentId": "kabbalat-shabbat-bayit",
+      "order": 4,
+      "category": "shabbat_bayit",
+      "titles": {
+        "he": "קִדּוּשׁ לֵיל שַׁבָּת",
+        "en": "Kiddush — Friday Night",
+        "pt": "Kidush da Noite de Shabat"
+      },
+      "tags": [
+        "kidush",
+        "vinho",
+        "santificação",
+        "bereshit"
+      ],
+      "childrenIds": [],
+      "contentId": "kiddush-shabbat",
+      "badge": "only",
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ],
+        "requiresMinyan": false
+      }
+    },
+    {
+      "id": "hamotzi-shabbat",
+      "slug": "hamotzi-shabbat",
+      "parentId": "kabbalat-shabbat-bayit",
+      "order": 5,
+      "category": "shabbat_bayit",
+      "titles": {
+        "he": "הַמּוֹצִיא וּזְמִירוֹת",
+        "en": "HaMotzi and Zmirot",
+        "pt": "HaMotzi e Zmirot de Shabat"
+      },
+      "tags": [
+        "hamotzi",
+        "challá",
+        "zmirot",
+        "yah ribon",
+        "refeição"
+      ],
+      "childrenIds": [],
+      "contentId": "hamotzi-shabbat",
+      "badge": "only",
+      "availability": {
+        "modes": [
+          "full",
+          "short",
+          "guided"
+        ],
+        "requiresMinyan": false
+      }
     }
   ]
 }

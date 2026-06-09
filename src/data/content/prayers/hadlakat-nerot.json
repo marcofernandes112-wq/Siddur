@@ -1,0 +1,51 @@
+{
+  "id": "hadlakat-nerot",
+  "prayerNodeId": "hadlakat-nerot",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "◈",
+      "◈ Acender as duas velas (ou mais) antes do pôr do sol. Cobrir os olhos com as mãos após acender.",
+      "בָּרוּךְ אַתָּה יְהֹוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם,",
+      "אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל שַׁבָּת.",
+      "◈",
+      "יְהִי רָצוֹן מִלְּפָנֶיךָ, יְהֹוָה אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי,",
+      "שֶׁתָּאִיר עֵינַי בְּאוֹר תּוֹרָתֶךָ, וְתַאֲרִיךְ יָמַי וִימֵי בְּנֵי בֵיתִי,",
+      "וְתִזְכֶּה אוֹתִי לְגַדֵּל בָּנִים וּבְנֵי בָנִים חֲכָמִים וּנְבוֹנִים,",
+      "אוֹהֲבֵי יְהֹוָה, יִרְאֵי אֱלֹהִים, אַנְשֵׁי אֱמֶת, זֶרַע קֹדֶשׁ,",
+      "דְּבֵקִים בַּה׳ וּמְאִירִים אֶת הָעוֹלָם בַּתּוֹרָה וּבְמַעֲשִׂים טוֹבִים.",
+      "וְאַהֲבַת הַתּוֹרָה תִּהְיֶה בְּלִבָּם.",
+      "שַׁבָּת שָׁלוֹם."
+    ],
+    "translit": [
+      "◈",
+      "◈ Acender as velas antes do pôr do sol. Cobrir os olhos e recitar a bênção.",
+      "Baruch Atá Adonai Elohênu Melech haolam,",
+      "asher kidshanu bemitzvotav vetzivanu lehadlik ner shel Shabbat.",
+      "◈ Descobrir os olhos e contemplar as velas.",
+      "Yehi ratzon milfanêcha, Adonai Elohai vElohê avotai,",
+      "shetair enai beor Toratecha, vetarich yamai vimê venê beiti,",
+      "vetizké oti legadel banim uvnê vanim chachamim unevonin,",
+      "ohavê Adonai, yirê Elohim, anshê emet, zera kodesh,",
+      "deveikim baAdonai umeirim et haolam baTorá uvmaasim tovim.",
+      "VeAhavat haTorá tihyê belibam.",
+      "Shabbat Shalom."
+    ],
+    "pt": [
+      "◈",
+      "◈ Acender as duas velas (mínimo) antes do pôr do sol. Após acender, cobrir os olhos com as palmas das mãos e recitar a bênção. Só depois descobrir os olhos — assim as velas já estão acesas quando se 'vê' a luz.",
+      "Bendito sejas Tu, Adonai, nosso Deus, Rei do universo,",
+      "que nos santificaste com os Teus mandamentos e nos ordenaste acender a vela de Shabat.",
+      "◈ Descobrir os olhos. Contemplar as velas em silêncio.",
+      "Que seja a Tua vontade, Adonai, meu Deus e Deus dos meus pais,",
+      "que ilumines os meus olhos com a luz da Tua Torá, e que prolongues os meus dias e os dias dos membros da minha casa,",
+      "e que me conceças criar filhos e netos sábios e entendidos,",
+      "que amem o Eterno, que temam a Deus, que sejam pessoas de verdade, descendência santa,",
+      "unidos ao Eterno e que iluminem o mundo com a Torá e com boas acções.",
+      "E que o amor da Torá esteja nos seus corações.",
+      "Shabat Shalom."
+    ]
+  },
+  "display": { "direction": "rtl", "lineBreakStyle": "blessing" },
+  "metadata": { "sourceType": "original", "status": "complete", "notes": "Acendimento das velas de Shabat. Bênção + oração pessoal ashkenazita/sefaradita. Recitado pela mulher da casa (ou pelo marido se a mulher não estiver presente)." }
+}

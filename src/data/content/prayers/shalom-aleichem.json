@@ -1,0 +1,42 @@
+{
+  "id": "shalom-aleichem",
+  "prayerNodeId": "shalom-aleichem",
+  "languageOrder": ["he", "translit", "pt"],
+  "text": {
+    "he": [
+      "◈",
+      "שָׁלוֹם עֲלֵיכֶם, מַלְאֲכֵי הַשָּׁרֵת, מַלְאֲכֵי עֶלְיוֹן,",
+      "מִמֶּלֶךְ מַלְכֵי הַמְּלָכִים, הַקָּדוֹשׁ בָּרוּךְ הוּא.",
+      "בּוֹאֲכֶם לְשָׁלוֹם, מַלְאֲכֵי הַשָּׁלוֹם, מַלְאֲכֵי עֶלְיוֹן,",
+      "מִמֶּלֶךְ מַלְכֵי הַמְּלָכִים, הַקָּדוֹשׁ בָּרוּךְ הוּא.",
+      "בָּרְכוּנִי לְשָׁלוֹם, מַלְאֲכֵי הַשָּׁלוֹם, מַלְאֲכֵי עֶלְיוֹן,",
+      "מִמֶּלֶךְ מַלְכֵי הַמְּלָכִים, הַקָּדוֹשׁ בָּרוּךְ הוּא.",
+      "צֵאתְכֶם לְשָׁלוֹם, מַלְאֲכֵי הַשָּׁלוֹם, מַלְאֲכֵי עֶלְיוֹן,",
+      "מִמֶּלֶךְ מַלְכֵי הַמְּלָכִים, הַקָּדוֹשׁ בָּרוּךְ הוּא."
+    ],
+    "translit": [
+      "◈ Cantar ao regressar da sinagoga, de pé. Repetir cada estrofe 3 vezes.",
+      "Shalom aleichem, malachê hasharêt, malachê Elyon,",
+      "miMelech malchê hamelachim, HaKadosh Baruch Hu.",
+      "Boachem leshalom, malachê hashalom, malachê Elyon,",
+      "miMelech malchê hamelachim, HaKadosh Baruch Hu.",
+      "Barchuniê leshalom, malachê hashalom, malachê Elyon,",
+      "miMelech malchê hamelachim, HaKadosh Baruch Hu.",
+      "Tzetchem leshalom, malachê hashalom, malachê Elyon,",
+      "miMelech malchê hamelachim, HaKadosh Baruch Hu."
+    ],
+    "pt": [
+      "◈ Cantar ao regressar da sinagoga (ou antes do Kidush em casa). De pé. Cada estrofe 3 vezes.",
+      "Paz sobre vós, anjos ministros, anjos do Altíssimo,",
+      "do Rei que reina sobre todos os reis, o Santo Bendito Seja.",
+      "A vossa chegada seja em paz, anjos da paz, anjos do Altíssimo,",
+      "do Rei que reina sobre todos os reis, o Santo Bendito Seja.",
+      "Abençoai-me em paz, anjos da paz, anjos do Altíssimo,",
+      "do Rei que reina sobre todos os reis, o Santo Bendito Seja.",
+      "A vossa partida seja em paz, anjos da paz, anjos do Altíssimo,",
+      "do Rei que reina sobre todos os reis, o Santo Bendito Seja."
+    ]
+  },
+  "display": { "direction": "rtl", "lineBreakStyle": "verse" },
+  "metadata": { "sourceType": "original", "status": "complete", "notes": "Shalom Aleichem — boas-vindas aos anjos do Shabat. Baseado em Shabat 119b. Cantar ao regressar da sinagoga na noite de sexta-feira." }
+}
